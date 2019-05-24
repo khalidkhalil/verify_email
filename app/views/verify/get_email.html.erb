@@ -1,0 +1,78 @@
+
+    <div class="container">
+      <div class="py-5 text-center">
+        <h2>Verify Email App</h2>
+        <p class="lead">
+           Verify Your Email NOW!
+        </p>
+        By: Khalid Khalil -- Mobile: 01014734042
+      </div>
+
+      <div class="row">
+       
+        <div class="col-md-8 order-md-1">
+
+        <%= form_for :verify, url: {action: "post_email"}, html: {class: "nifty_form"} do |form| %>
+
+
+            <div class="row">
+              <div class="col-md-5 mb-3">
+                <label for="country">Your Email</label>
+               <%= form.email_field :email, class: 'form-control' %>
+                <div id="email_status">
+                </div>
+              </div>
+              
+
+              <button id="verify_mail" type="button" class="btn btn-primary">Verify</button>
+
+              
+            </div>
+
+            <% end %>
+ 
+        </div>
+      </div>
+
+    </div>
+
+    <script>  
+
+    $('#verify_mail').click(function () {
+        $.getJSON('/get_email?email=' + $('#verify_email').val(), function (data) {
+          console.log(data);
+
+           if (data.format_valid == false){
+
+            $('#email_status').text('Format Of Email is not valid');
+
+          }
+          else if (data.format_valid == true) {
+
+            $('#email_status').text('Format Of Email is valid');
+
+          }
+
+
+        if (data.format_valid == true){
+          if (data.smtp_check == true) {
+
+                    $('#email_status').text('Email Exist as an SMTP domain');
+
+                  }
+                  else if (data.smtp_check == false) {
+
+                    $('#email_status').text('Email does not exist as an SMTP domain');
+
+                  }
+        }
+        if (data.limit == true){
+         $('#email_status').text('You Have Exceed the limit of API Wait 5 Seconds');
+
+        }
+          
+        });
+
+    });
+
+    </script>

@@ -1,0 +1,3807 @@
+1,"Parròquia de Sant Julià de Lòria",1
+2,"Parròquia d'Ordino",1
+3,"Parròquia de la Massana",1
+4,"Parròquia d'Encamp",1
+5,"Parròquia de Canillo",1
+6,"Parròquia d'Andorra la Vella",1
+7,"Parròquia d'Escaldes-Engordany",1
+8,"Umm al Qaywayn",2
+9,"Raʼs al Khaymah",2
+10,"Dubayy",2
+11,"Ash Shāriqah",2
+12,"Al Fujayrah",2
+13,"Ajman",2
+14,"Abū Z̧aby",2
+15,"Zabul",3
+16,"Vardak",3
+17,"Takhār",3
+18,"Sar-e Pol",3
+19,"Samangān",3
+20,"Parvān",3
+21,"Paktīkā",3
+22,"Paktia",3
+23,"Orūzgān",3
+24,"Nīmrūz",3
+25,"Nangarhār",3
+26,"Lowgar",3
+27,"Laghmān",3
+28,"Kunduz",3
+29,"Konar",3
+30,"Kāpīsā",3
+31,"Kandahār",3
+32,"Kabul",3
+33,"Jowzjān",3
+34,"Herat",3
+35,"Helmand",3
+36,"Ghowr",3
+37,"Ghaznī",3
+38,"Faryab",3
+39,"Farah",3
+40,"Bāmīān",3
+41,"Balkh",3
+42,"Baghlān",3
+43,"Badghis",3
+44,"Badakhshan",3
+45,"Khowst",3
+46,"Nūrestān",3
+47,"Wilāyat-e Dāykundī",3
+48,"Panjshir",3
+49,"Saint Philip",4
+50,"Saint Peter",4
+51,"Saint Paul",4
+52,"Saint Mary",4
+53,"Saint John",4
+54,"Saint George",4
+55,"Redonda",4
+56,"Barbuda",4
+57,"Berat",6
+58,"Dibër",6
+59,"Elbasan",6
+60,"Gjirokastër",6
+61,"Korçë",6
+62,"Kukës",6
+63,"Durrës",6
+64,"Fier",6
+65,"Lezhë",6
+66,"Shkodër",6
+67,"Tiranë",6
+68,"Vlorë",6
+69,"Ararat",7
+70,"Syunikʼ",7
+71,"Vayotsʼ Dzor",7
+72,"Yerevan",7
+73,"Aragatsotn",7
+74,"Armavir",7
+75,"Gegharkʼunikʼ",7
+76,"Kotaykʼ",7
+77,"Lorri",7
+78,"Shirak",7
+79,"Tavush",7
+80,"Lunda Sul",8
+81,"Lunda Norte",8
+82,"Moxico",8
+83,"Cuando Cubango",8
+84,"Zaire",8
+85,"Uíge",8
+86,"Malanje",8
+87,"Luanda",8
+88,"Cuanza Norte",8
+89,"Cabinda",8
+90,"Bengo",8
+91,"Namibe",8
+92,"Huíla",8
+93,"Huambo",8
+94,"Cunene",8
+95,"Cuanza Sul",8
+96,"Bié",8
+97,"Benguela",8
+98,"Misiones",10
+99,"Formosa",10
+100,"Buenos Aires F.D.",10
+101,"Entre Ríos",10
+102,"Corrientes",10
+103,"Buenos Aires",10
+104,"Tucumán",10
+105,"Tierra del Fuego",10
+106,"Santiago del Estero",10
+107,"Santa Fe",10
+108,"Santa Cruz",10
+109,"San Luis",10
+110,"San Juan",10
+111,"Salta",10
+112,"Río Negro",10
+113,"Neuquén",10
+114,"Mendoza",10
+115,"La Rioja",10
+116,"La Pampa",10
+117,"Jujuy",10
+118,"Córdoba",10
+119,"Chubut",10
+120,"Chaco",10
+121,"Catamarca",10
+122,"Western District",11
+123,"Rose Island (inactive",11
+124,"Swains Island",11
+125,"Eastern District",11
+126,"Manu'a",11
+127,"Vienna",12
+128,"Vorarlberg",12
+129,"Tyrol",12
+130,"Styria",12
+131,"Salzburg",12
+132,"Upper Austria",12
+133,"Lower Austria",12
+134,"Carinthia",12
+135,"Burgenland",12
+136,"Western Australia",13
+137,"South Australia",13
+138,"Northern Territory",13
+139,"Victoria",13
+140,"Tasmania",13
+141,"Queensland",13
+142,"New South Wales",13
+143,"Australian Capital Territory",13
+144,"Vårdö",15
+145,"Sund",15
+146,"Sottunga",15
+147,"Saltvik",15
+148,"Lumparland",15
+149,"Lemland",15
+150,"Kumlinge",15
+151,"Kökar",15
+152,"Föglö",15
+153,"Brändö",15
+154,"Mariehamn",15
+155,"Jomala",15
+156,"Hammarland",15
+157,"Geta",15
+158,"Finström",15
+159,"Eckerö",15
+160,"Zǝngilan",16
+161,"Yardımlı",16
+162,"Şuşa",16
+163,"Salyan",16
+164,"Sabirabad",16
+165,"Saatlı",16
+166,"Neftçala",16
+167,"Nakhichevan",16
+168,"Masallı",16
+169,"Lerik",16
+170,"Lənkəran",16
+171,"Laçın",16
+172,"Qubadlı",16
+173,"İmişli",16
+174,"Füzuli",16
+175,"Cǝbrayıl",16
+176,"Cəlilabad",16
+177,"Astara",16
+178,"Xocalı",16
+179,"Ağcabǝdi",16
+180,"Ağdam",16
+181,"Əli Bayramli",16
+182,"Lənkəran Şəhəri",16
+183,"Şuşa Şəhəri",16
+184,"Tǝrtǝr",16
+185,"Xankǝndi",16
+186,"Xocavǝnd",16
+187,"Zərdab",16
+188,"Zaqatala",16
+189,"Yevlax",16
+190,"Oğuz",16
+191,"Ucar",16
+192,"Tovuz",16
+193,"Şamaxı",16
+194,"Şǝki",16
+195,"Şǝmkir",16
+196,"Kürdǝmir",16
+197,"Qǝbǝlǝ",16
+198,"Qusar",16
+199,"Quba",16
+200,"Xanlar",16
+201,"Xaçmaz",16
+202,"Kǝlbǝcǝr",16
+203,"Qazax",16
+204,"Goranboy",16
+205,"Qǝx",16
+206,"İsmayıllı",16
+207,"Göyçay",16
+208,"Dǝvǝçi",16
+209,"Daşkǝsǝn",16
+210,"Balakǝn",16
+211,"Bǝrdǝ",16
+212,"Baki",16
+213,"Abşeron",16
+214,"Ağsu",16
+215,"Ağdaş",16
+216,"Gǝdǝbǝy",16
+217,"Ağstafa",16
+218,"Gǝncǝ",16
+219,"Mingǝcevir",16
+220,"Naftalan",16
+221,"Qobustan",16
+222,"Samux",16
+223,"Shaki City",16
+224,"Siyǝzǝn",16
+225,"Sumqayit",16
+226,"Xızı",16
+227,"Yevlax City",16
+228,"Hacıqabul",16
+229,"Babek",16
+230,"Federation of Bosnia and Herzegovina",17
+231,"Republika Srpska",17
+232,"Brčko",17
+233,"Saint Thomas",18
+234,"Saint Philip",18
+235,"Saint Peter",18
+236,"Saint Michael",18
+237,"Saint Lucy",18
+238,"Saint Joseph",18
+239,"Saint John",18
+240,"Saint James",18
+241,"Saint George",18
+242,"Saint Andrew",18
+243,"Christ Church",18
+244,"Rājshāhi",19
+245,"Dhaka",19
+246,"Chittagong",19
+247,"Khulna",19
+248,"Barisāl",19
+249,"Sylhet",19
+250,"Rangpur Division",19
+251,"Brussels Capital Region",20
+252,"Walloon Region",20
+253,"Flanders",20
+254,"Boucle du Mouhoun",21
+255,"Cascades",21
+256,"Centre",21
+257,"Centre-Est",21
+258,"Centre-Nord",21
+259,"Centre-Ouest",21
+260,"Centre-Sud",21
+261,"Est",21
+262,"Hauts-Bassins",21
+263,"Nord",21
+264,"Plateau-Central",21
+265,"Sahel",21
+266,"Sud-Ouest",21
+267,"Razgrad",22
+268,"Montana",22
+269,"Vratsa",22
+270,"Varna",22
+271,"Dobrich",22
+272,"Sofiya",22
+273,"Ruse",22
+274,"Plovdiv",22
+275,"Pleven",22
+276,"Pernik",22
+277,"Pazardzhit",22
+278,"Lovech",22
+279,"Khaskovo",22
+280,"Oblast Sofiya-Grad",22
+281,"Burgas",22
+282,"Blagoevgrad",22
+283,"Gabrovo",22
+284,"Kŭrdzhali",22
+285,"Kyustendil",22
+286,"Shumen",22
+287,"Silistra",22
+288,"Sliven",22
+289,"Smolyan",22
+290,"Stara Zagora",22
+291,"Tŭrgovishte",22
+292,"Veliko Tŭrnovo",22
+293,"Vidin",22
+294,"Yambol",22
+295,"Muharraq",23
+296,"Capital Governorate",23
+297,"Southern Governorate",23
+298,"Central Governorate",23
+299,"Northern Governorate",23
+300,"Makamba",24
+301,"Bururi",24
+302,"Muramvya",24
+303,"Gitega",24
+304,"Ruyigi",24
+305,"Cankuzo",24
+306,"Karuzi",24
+307,"Bubanza",24
+308,"Cibitoke",24
+309,"Ngozi",24
+310,"Kayanza",24
+311,"Muyinga",24
+312,"Kirundo",24
+313,"Rutana",24
+314,"Mwaro",24
+315,"Bujumbura Mairie",24
+316,"Bujumbura Rural",24
+317,"Zou",25
+318,"Quémé",25
+319,"Mono",25
+320,"Borgou",25
+321,"Atlantique",25
+322,"Atakora",25
+323,"Alibori",25
+324,"Collines",25
+325,"Kouffo",25
+326,"Donga",25
+327,"Littoral",25
+328,"Plateau",25
+329,"Warwick",27
+330,"Southampton",27
+331,"Smithʼs",27
+332,"Sandys",27
+333,"Saint Georgeʼs",27
+334,"Saint George",27
+335,"Pembroke",27
+336,"Paget",27
+337,"Hamilton Parish",27
+338,"Hamilton city",27
+339,"Devonshire",27
+340,"Tutong",28
+341,"Temburong",28
+342,"Brunei and Muara",28
+343,"Belait",28
+344,"Tarija",29
+345,"Santa Cruz",29
+346,"Potosí",29
+347,"Pando",29
+348,"Oruro",29
+349,"La Paz",29
+350,"Cochabamba",29
+351,"Chuquisaca",29
+352,"El Beni",29
+353,"Bonaire",30
+354,"Saba",30
+355,"Sint Eustatius",30
+356,"Rio Grande do Norte",31
+357,"Piauí",31
+358,"Estado de Pernambuco",31
+359,"Paraíba",31
+360,"Pará",31
+361,"Maranhão",31
+362,"Ceará",31
+363,"Amapá",31
+364,"Alagoas",31
+365,"Sergipe",31
+366,"São Paulo",31
+367,"Santa Catarina",31
+368,"Rio Grande do Sul",31
+369,"Rio de Janeiro",31
+370,"Paraná",31
+371,"Estado de Minas Gerais",31
+372,"Mato Grosso do Sul",31
+373,"Mato Grosso",31
+374,"Goiás",31
+375,"Distrito Federal",31
+376,"Estado de Espírito Santo",31
+377,"Bahia",31
+378,"Tocantins",31
+379,"Roraima",31
+380,"Amazonas",31
+381,"Acre",31
+382,"Rondônia",31
+383,"San Salvador and Rum Cay",32
+384,"Sandy Point",32
+385,"Rock Sound",32
+386,"Ragged Island",32
+387,"Nichollstown and Berry Islands",32
+388,"New Providence",32
+389,"Mayaguana",32
+390,"Marsh Harbour",32
+391,"Long Island",32
+392,"Kemps Bay",32
+393,"Inagua",32
+394,"High Rock",32
+395,"Harbour Island",32
+396,"Green Turtle Cay",32
+397,"Governorʼs Harbour",32
+398,"Fresh Creek",32
+399,"Freeport",32
+400,"Exuma",32
+401,"Cat Island",32
+402,"Bimini",32
+403,"Acklins and Crooked Islands",32
+404,"Bumthang",33
+405,"Chhukha",33
+406,"Daga",33
+407,"Chirang",33
+408,"Geylegphug",33
+409,"Ha",33
+410,"Lhuntshi",33
+411,"Mongar",33
+412,"Paro",33
+413,"Pemagatsel",33
+414,"Punakha",33
+415,"Samchi",33
+416,"Samdrup Jongkhar",33
+417,"Shemgang",33
+418,"Tashigang",33
+419,"Thimphu",33
+420,"Tongsa",33
+421,"Wangdi Phodrang",33
+422,"Gasa",33
+423,"Trashi Yangste",33
+424,"Southern",35
+425,"South East",35
+426,"North East",35
+427,"North West",35
+428,"Kweneng",35
+429,"Kgatleng",35
+430,"Kgalagadi",35
+431,"Ghanzi",35
+432,"Central",35
+433,"Vitsyebskaya Voblastsʼ",36
+434,"Mahilyowskaya Voblastsʼ",36
+435,"Minskaya Voblastsʼ",36
+436,"Horad Minsk",36
+437,"Hrodzyenskaya Voblastsʼ",36
+438,"Homyelʼskaya Voblastsʼ",36
+439,"Brestskaya Voblastsʼ",36
+440,"Toledo",37
+441,"Stann Creek",37
+442,"Orange Walk",37
+443,"Corozal",37
+444,"Cayo",37
+445,"Belize",37
+446,"Alberta",38
+447,"British Columbia",38
+448,"Manitoba",38
+449,"New Brunswick",38
+450,"Northwest Territories",38
+451,"Nova Scotia",38
+452,"Nunavut",38
+453,"Ontario",38
+454,"Prince Edward Island",38
+455,"Quebec",38
+456,"Saskatchewan",38
+457,"Yukon",38
+458,"Newfoundland and Labrador",38
+459,"Sud-Kivu",40
+460,"Katanga",40
+461,"Nord-Kivu",40
+462,"Maniema",40
+463,"Kasaï-Oriental",40
+464,"Kasaï-Occidental",40
+465,"Orientale",40
+466,"Équateur",40
+467,"Kinshasa",40
+468,"Bas-Congo",40
+469,"Bandundu",40
+470,"Vakaga",41
+471,"Ouaka",41
+472,"Mbomou",41
+473,"Haut-Mbomou",41
+474,"Haute-Kotto",41
+475,"Basse-Kotto",41
+476,"Bamingui-Bangoran",41
+477,"Sangha-Mbaéré",41
+478,"Ouham-Pendé",41
+479,"Ouham",41
+480,"Ombella-Mpoko",41
+481,"Nana-Mambéré",41
+482,"Lobaye",41
+483,"Kémo",41
+484,"Mambéré-Kadéï",41
+485,"Nana-Grébizi",41
+486,"Bangui",41
+487,"Sangha",42
+488,"Pool",42
+489,"Plateaux",42
+490,"Niari",42
+491,"Likouala",42
+492,"Lékoumou",42
+493,"Kouilou",42
+494,"Cuvette",42
+495,"Bouenza",42
+496,"Brazzaville",42
+497,"Cuvette-Ouest",42
+498,"Pointe-Noire",42
+499,"Zürich",43
+500,"Zug",43
+501,"Vaud",43
+502,"Valais",43
+503,"Uri",43
+504,"Ticino",43
+505,"Thurgau",43
+506,"Solothurn",43
+507,"Schwyz",43
+508,"Schaffhausen",43
+509,"Sankt Gallen",43
+510,"Obwalden",43
+511,"Nidwalden",43
+512,"Neuchâtel",43
+513,"Luzern",43
+514,"Jura",43
+515,"Graubünden",43
+516,"Glarus",43
+517,"Genève",43
+518,"Fribourg",43
+519,"Bern",43
+520,"Basel-City",43
+521,"Basel-Landschaft",43
+522,"Appenzell Ausserrhoden",43
+523,"Appenzell Innerrhoden",43
+524,"Aargau",43
+525,"Lagunes",44
+526,"Sud-Comoé",44
+527,"Agnéby",44
+528,"Haut-Sassandra",44
+529,"Savanes",44
+530,"Vallée du Bandama",44
+531,"Moyen-Comoé",44
+532,"Dix-Huit Montagnes",44
+533,"Lacs",44
+534,"Zanzan",44
+535,"Bas-Sassandra",44
+536,"Worodougou",44
+537,"Denguélé",44
+538,"Sud-Bandama",44
+539,"Fromager",44
+540,"Nʼzi-Comoé",44
+541,"Marahoué",44
+542,"Moyen-Cavally",44
+543,"Bafing",44
+544,"Valparaíso",46
+545,"Tarapacá",46
+546,"Región Metropolitana",46
+547,"Maule",46
+548,"Los Lagos",46
+549,"Libertador General Bernardo OʼHiggins",46
+550,"Coquimbo",46
+551,"Bío-Bío",46
+552,"Atacama",46
+553,"Araucanía",46
+554,"Antofagasta",46
+555,"Aisén del General Carlos Ibáñez del Campo",46
+556,"Magallanes y Antártica Chilena",46
+557,"Región de Arica y Parinacota",46
+558,"Región de Los Ríos",46
+559,"South-West Province",47
+560,"South Region",47
+561,"West Region",47
+562,"North-West Region",47
+563,"North Province",47
+564,"Littoral Region",47
+565,"Far North Region",47
+566,"East Province",47
+567,"Centre Region",47
+568,"Adamaoua Region",47
+569,"Tibet Autonomous Region",48
+570,"Qinghai Sheng",48
+571,"Xinjiang Uygur Zizhiqu",48
+572,"Zhejiang Sheng",48
+573,"Yunnan",48
+574,"Tianjin Shi",48
+575,"Sichuan",48
+576,"Shanxi Sheng",48
+577,"Shanghai Shi",48
+578,"Shandong Sheng",48
+579,"Shaanxi Sheng",48
+580,"Ningxia Huizu Zizhiqu",48
+581,"Jiangxi",48
+582,"Jiangsu Sheng",48
+583,"Hunan",48
+584,"Hubei",48
+585,"Henan Sheng",48
+586,"Hebei Sheng",48
+587,"Hainan",48
+588,"Guizhou Sheng",48
+589,"Guangxi Zhuangzu Zizhiqu",48
+590,"Guangdong Sheng",48
+591,"Gansu Sheng",48
+592,"Fujian",48
+593,"Chongqing Shi",48
+594,"Anhui Sheng",48
+595,"Inner Mongolia",48
+596,"Liaoning",48
+597,"Jilin Sheng",48
+598,"Heilongjiang Sheng",48
+599,"Beijing",48
+600,"Vichada",49
+601,"Vaupés",49
+602,"Valle del Cauca",49
+603,"Tolima",49
+604,"Sucre",49
+605,"Santander",49
+606,"Archipiélago de San Andrés, Providencia y Santa Catalina",49
+607,"Risaralda",49
+608,"Quindío",49
+609,"Putumayo",49
+610,"Norte de Santander",49
+611,"Nariño",49
+612,"Meta",49
+613,"Magdalena",49
+614,"La Guajira",49
+615,"Huila",49
+616,"Guaviare",49
+617,"Guainía",49
+618,"Cundinamarca",49
+619,"Córdoba",49
+620,"Chocó",49
+621,"Cesar",49
+622,"Cauca",49
+623,"Casanare",49
+624,"Caquetá",49
+625,"Caldas",49
+626,"Boyacá",49
+627,"Bolívar",49
+628,"Bogota D.C.",49
+629,"Atlántico",49
+630,"Arauca",49
+631,"Antioquia",49
+632,"Amazonas",49
+633,"San José",50
+634,"Puntarenas",50
+635,"Limón",50
+636,"Heredia",50
+637,"Guanacaste",50
+638,"Cartago",50
+639,"Alajuela",50
+640,"Villa Clara",51
+641,"Santiago de Cuba",51
+642,"Sancti Spíritus",51
+643,"Pinar del Río",51
+644,"Matanzas",51
+645,"Las Tunas",51
+646,"Isla de la Juventud",51
+647,"Holguín",51
+648,"Guantánamo",51
+649,"Granma",51
+650,"Ciudad de La Habana",51
+651,"Cienfuegos",51
+652,"Ciego de Ávila",51
+653,"Camagüey",51
+654,"Provincia Artemisa",51
+655,"Provincia Mayabeque",51
+656,"Tarrafal",52
+657,"São Vicente",52
+658,"Santa Catarina",52
+659,"Sal",52
+660,"Ribeira Grande",52
+661,"Praia",52
+662,"Paul",52
+663,"Maio",52
+664,"Brava",52
+665,"Boa Vista",52
+666,"Mosteiros",52
+667,"Santa Cruz",52
+668,"São Domingos",52
+669,"São Filipe",52
+670,"São Miguel",52
+671,"Concelho do Porto Novo",52
+672,"Concelho da Ribeira Brava",52
+673,"Concelho de Santa Catarina do Fogo",52
+674,"Concelho de São Salvador do Mundo",52
+675,"Concelho do Tarrafal de São Nicolau",52
+676,"Concelho de São Lourenço dos Orgãos",52
+677,"Concelho de Ribeira Grande de Santiago",52
+678,"Paphos",55
+679,"Nicosia",55
+680,"Limassol",55
+681,"Larnaca",55
+682,"Kyrenia",55
+683,"Famagusta",55
+684,"Hlavní Mesto Praha",56
+685,"South Moravian Region",56
+686,"Jihočeský Kraj",56
+687,"Vysočina",56
+688,"Karlovarský Kraj",56
+689,"Královéhradecký Kraj",56
+690,"Liberecký Kraj",56
+691,"Olomoucký Kraj",56
+692,"Moravskoslezský Kraj",56
+693,"Pardubický Kraj",56
+694,"Plzeňský Kraj",56
+695,"Středočeský Kraj",56
+696,"Ústecký Kraj",56
+697,"Zlínský Kraj",56
+698,"Thuringia",57
+699,"Schleswig-Holstein",57
+700,"Saxony-Anhalt",57
+701,"Saxony",57
+702,"Saarland",57
+703,"Rhineland-Palatinate",57
+704,"North Rhine-Westphalia",57
+705,"Lower Saxony",57
+706,"Mecklenburg-Vorpommern",57
+707,"Hesse",57
+708,"Hamburg",57
+709,"Bremen",57
+710,"Brandenburg",57
+711,"Berlin",57
+712,"Bavaria",57
+713,"Baden-Württemberg",57
+714,"Tadjourah",58
+715,"Obock",58
+716,"Djibouti",58
+717,"Dikhil",58
+718,"Ali Sabieh",58
+719,"Arta",58
+720,"Capital Region",59
+721,"Central Jutland",59
+722,"Region North Jutland",59
+723,"Zealand",59
+724,"South Denmark",59
+725,"Saint Peter",60
+726,"Saint Paul",60
+727,"Saint Patrick",60
+728,"Saint Mark",60
+729,"Saint Luke",60
+730,"Saint Joseph",60
+731,"Saint John",60
+732,"Saint George",60
+733,"Saint David",60
+734,"Saint Andrew",60
+735,"Valverde",61
+736,"Santiago Rodríguez",61
+737,"Santiago",61
+738,"San Pedro de Macorís",61
+739,"San Juan",61
+740,"San Cristóbal",61
+741,"Sánchez Ramírez",61
+742,"Samaná",61
+743,"Hermanas Mirabal",61
+744,"Puerto Plata",61
+745,"Peravia",61
+746,"Pedernales",61
+747,"Distrito Nacional",61
+748,"Monte Plata",61
+749,"Monte Cristi",61
+750,"Monseñor Nouel",61
+751,"María Trinidad Sánchez",61
+752,"La Vega",61
+753,"La Romana",61
+754,"La Altagracia",61
+755,"Independencia",61
+756,"Hato Mayor",61
+757,"Espaillat",61
+758,"El Seíbo",61
+759,"Elías Piña",61
+760,"Duarte",61
+761,"Dajabón",61
+762,"Barahona",61
+763,"Baoruco",61
+764,"Azua",61
+765,"San José de Ocoa",61
+766,"Santo Domingo",61
+767,"Tlemcen",62
+768,"Tizi Ouzou",62
+769,"Tissemsilt",62
+770,"Tipaza",62
+771,"Tindouf",62
+772,"Tiaret",62
+773,"Tébessa",62
+774,"Tamanghasset",62
+775,"Souk Ahras",62
+776,"Skikda",62
+777,"Sidi Bel Abbès",62
+778,"Sétif",62
+779,"Saïda",62
+780,"Relizane",62
+781,"Oum el Bouaghi",62
+782,"Ouargla",62
+783,"Oran",62
+784,"Naama النعامة",62
+785,"Mʼsila",62
+786,"Mostaganem",62
+787,"Mila",62
+788,"Médéa",62
+789,"Mascara",62
+790,"Laghouat",62
+791,"Khenchela",62
+792,"Jijel",62
+793,"Illizi",62
+794,"Guelma",62
+795,"Ghardaïa",62
+796,"El Tarf",62
+797,"El Oued",62
+798,"El Bayadh",62
+799,"Djelfa",62
+800,"Constantine",62
+801,"Chlef",62
+802,"Boumerdes",62
+803,"Bouira",62
+804,"Bordj Bou Arréridj",62
+805,"Blida",62
+806,"Biskra",62
+807,"Bejaïa",62
+808,"Béchar",62
+809,"Batna",62
+810,"Annaba",62
+811,"Alger",62
+812,"Aïn Temouchent",62
+813,"Aïn Defla",62
+814,"Adrar",62
+815,"Zamora-Chinchipe",63
+816,"Tungurahua",63
+817,"Pichincha",63
+818,"Pastaza",63
+819,"Napo",63
+820,"Morona-Santiago",63
+821,"Manabí",63
+822,"Los Ríos",63
+823,"Loja",63
+824,"Imbabura",63
+825,"Guayas",63
+826,"Galápagos",63
+827,"Esmeraldas",63
+828,"El Oro",63
+829,"Cotopaxi",63
+830,"Chimborazo",63
+831,"Carchi",63
+832,"Cañar",63
+833,"Bolívar",63
+834,"Azuay",63
+835,"Sucumbios",63
+836,"Orellana",63
+837,"Santo Domingo de los Tsáchilas",63
+838,"Santa Elena",63
+839,"Võrumaa",64
+840,"Viljandimaa",64
+841,"Valgamaa",64
+842,"Tartumaa",64
+843,"Saaremaa",64
+844,"Raplamaa",64
+845,"Põlvamaa",64
+846,"Pärnumaa",64
+847,"Lääne-Virumaa",64
+848,"Läänemaa",64
+849,"Jõgevamaa",64
+850,"Järvamaa",64
+851,"Ida-Virumaa",64
+852,"Hiiumaa",64
+853,"Harjumaa",64
+854,"Sūhāj",65
+855,"Shamāl Sīnāʼ",65
+856,"Qinā",65
+857,"Maţrūḩ",65
+858,"Kafr ash Shaykh",65
+859,"Janūb Sīnāʼ",65
+860,"Dumyāţ",65
+861,"Būr Sa‘īd",65
+862,"Banī Suwayf",65
+863,"Asyūţ",65
+864,"Aswān",65
+865,"As Suways",65
+866,"Eastern Province",65
+867,"Al Wādī al Jadīd",65
+868,"Al Qalyūbīyah",65
+869,"Al Qāhirah",65
+870,"Al Minyā",65
+871,"Al Minūfīyah",65
+872,"Al Jīzah",65
+873,"Al Ismā‘īlīyah",65
+874,"Alexandria",65
+875,"Al Gharbīyah",65
+876,"Al Fayyūm",65
+877,"Al Buḩayrah",65
+878,"Al Baḩr al Aḩmar",65
+879,"Ad Daqahlīyah",65
+880,"Muḩāfaz̧at al Uqşur",65
+881,"Oued Ed-Dahab-Lagouira",66
+882,"Ānseba",67
+883,"Debub",67
+884,"Debubawī Kʼeyih Bahrī",67
+885,"Gash Barka",67
+886,"Maʼākel",67
+887,"Semēnawī Kʼeyih Bahrī",67
+888,"Murcia",68
+889,"Ceuta",68
+890,"Balearic Islands",68
+891,"Andalusia",68
+892,"Canary Islands",68
+893,"Castille-La Mancha",68
+894,"Extremadura",68
+895,"Valencia",68
+896,"Asturias",68
+897,"Navarre",68
+898,"Madrid",68
+899,"La Rioja",68
+900,"Cantabria",68
+901,"Aragon",68
+902,"Castile and León",68
+903,"Catalonia",68
+904,"Galicia",68
+905,"Basque Country",68
+906,"Melilla",68
+907,"Ādīs Ābeba",69
+908,"Afar Regional State",69
+909,"The State of Amhara",69
+910,"Beneshangual Gumz Regional State",69
+911,"Dire Dawa Region",69
+912,"Gambela",69
+913,"The State of Harari People",69
+914,"Oromia Regional State",69
+915,"Somalia Regional State",69
+916,"Tigray Regional State",69
+917,"SSNPR",69
+918,"Ilubabor",69
+919,"Oulu",70
+920,"Lapponia",70
+921,"Southern Finland",70
+922,"Province of Eastern Finland",70
+923,"Western Finland",70
+924,"Western",71
+925,"Northern",71
+926,"Central",71
+927,"Eastern",71
+928,"Rotuma",71
+929,"Yap",73
+930,"Pohnpei",73
+931,"Kosrae",73
+932,"Chuuk",73
+933,"Vágar",74
+934,"Suðuroy",74
+935,"Streymoy",74
+936,"Sandoy",74
+937,"Norðoyar",74
+938,"Eysturoy",74
+939,"Rhône-Alpes",75
+940,"Provence-Alpes-Côte d'Azur",75
+941,"Poitou-Charentes",75
+942,"Picardie",75
+943,"Pays de la Loire",75
+944,"Nord-Pas-de-Calais",75
+945,"Midi-Pyrénées",75
+946,"Lorraine",75
+947,"Limousin",75
+948,"Languedoc-Roussillon",75
+949,"Île-de-France",75
+950,"Haute-Normandie",75
+951,"Franche-Comté",75
+952,"Corsica",75
+953,"Champagne-Ardenne",75
+954,"Centre",75
+955,"Brittany",75
+956,"Bourgogne",75
+957,"Basse-Normandie",75
+958,"Auvergne",75
+959,"Aquitaine",75
+960,"Alsace",75
+961,"Woleu-Ntem",76
+962,"Ogooué-Maritime",76
+963,"Ogooué-Lolo",76
+964,"Ogooué-Ivindo",76
+965,"Nyanga",76
+966,"Ngounié",76
+967,"Moyen-Ogooué",76
+968,"Haut-Ogooué",76
+969,"Estuaire",76
+970,"Wales",77
+971,"Scotland",77
+972,"N Ireland",77
+973,"England",77
+974,"Saint Patrick",78
+975,"Saint Mark",78
+976,"Saint John",78
+977,"Saint George",78
+978,"Saint David",78
+979,"Saint Andrew",78
+980,"Carriacou and Petite Martinique",78
+981,"T'bilisi",79
+982,"Ajaria",79
+983,"Kvemo Kartli",79
+984,"Kakheti",79
+985,"Guria",79
+986,"Imereti",79
+987,"Shida Kartli",79
+988,"Mtskheta-Mtianeti",79
+989,"Racha-Lechkhumi and Kvemo Svaneti",79
+990,"Samegrelo and Zemo Svaneti",79
+991,"Samtskhe-Javakheti",79
+992,"Abkhazia",79
+993,"Guyane",80
+994,"Western",82
+995,"Volta",82
+996,"Upper West",82
+997,"Upper East",82
+998,"Northern",82
+999,"Greater Accra",82
+1000,"Eastern",82
+1001,"Central",82
+1002,"Brong-Ahafo",82
+1003,"Ashanti",82
+1004,"Qaasuitsup",84
+1005,"Kujalleq",84
+1006,"Qeqqata",84
+1007,"Sermersooq",84
+1008,"Western",85
+1009,"Upper River",85
+1010,"North Bank",85
+1011,"Central River",85
+1012,"Lower River",85
+1013,"Banjul",85
+1014,"Yomou",86
+1015,"Tougué",86
+1016,"Télimélé",86
+1017,"Siguiri",86
+1018,"Pita",86
+1019,"Nzérékoré",86
+1020,"Mamou",86
+1021,"Mali",86
+1022,"Macenta",86
+1023,"Labé",86
+1024,"Kouroussa",86
+1025,"Koundara",86
+1026,"Kissidougou",86
+1027,"Kindia",86
+1028,"Kérouané",86
+1029,"Kankan",86
+1030,"Guéckédou",86
+1031,"Gaoual",86
+1032,"Fria",86
+1033,"Forécariah",86
+1034,"Faranah",86
+1035,"Dubréka",86
+1036,"Dinguiraye",86
+1037,"Dalaba",86
+1038,"Dabola",86
+1039,"Conakry",86
+1040,"Boké",86
+1041,"Boffa",86
+1042,"Beyla",86
+1043,"Coyah",86
+1044,"Koubia",86
+1045,"Lélouma",86
+1046,"Lola",86
+1047,"Mandiana",86
+1048,"Guadeloupe",87
+1049,"Annobón",88
+1050,"Bioko Norte",88
+1051,"Bioko Sur",88
+1052,"Centro Sur",88
+1053,"Kié-Ntem",88
+1054,"Litoral",88
+1055,"Wele-Nzas",88
+1056,"Mount Athos",89
+1057,"Attiki",89
+1058,"Central Greece",89
+1059,"Kentriki Makedonia",89
+1060,"Kriti",89
+1061,"Anatoliki Makedonia kai Thraki",89
+1062,"Ipeiros",89
+1063,"Ionia Nisia",89
+1064,"Voreio Aigaio",89
+1065,"Peloponnisos",89
+1066,"Notio Aigaio",89
+1067,"Thessalia",89
+1068,"Ditiki Ellada",89
+1069,"Ditiki Makedonia",89
+1070,"Zacapa",91
+1071,"Totonicapán",91
+1072,"Suchitepéquez",91
+1073,"Sololá",91
+1074,"Santa Rosa",91
+1075,"San Marcos",91
+1076,"Sacatepéquez",91
+1077,"Retalhuleu",91
+1078,"Quiché",91
+1079,"Quetzaltenango",91
+1080,"Petén",91
+1081,"Jutiapa",91
+1082,"Jalapa",91
+1083,"Izabal",91
+1084,"Huehuetenango",91
+1085,"Guatemala",91
+1086,"Escuintla",91
+1087,"El Progreso",91
+1088,"Chiquimula",91
+1089,"Chimaltenango",91
+1090,"Baja Verapaz",91
+1091,"Alta Verapaz",91
+1092,"Piti Municipality",92
+1093,"Santa Rita Municipality",92
+1094,"Sinajana Municipality",92
+1095,"Talofofo Municipality",92
+1096,"Tamuning-Tumon-Harmon Municipality",92
+1097,"Umatac Municipality",92
+1098,"Yigo Municipality",92
+1099,"Yona Municipality",92
+1100,"Merizo Municipality",92
+1101,"Mangilao Municipality",92
+1102,"Agana Heights Municipality",92
+1103,"Chalan Pago-Ordot Municipality",92
+1104,"Asan-Maina Municipality",92
+1105,"Agat Municipality",92
+1106,"Dededo Municipality",92
+1107,"Barrigada Municipality",92
+1108,"Hagatna Municipality",92
+1109,"Inarajan Municipality",92
+1110,"Mongmong-Toto-Maite Municipality",92
+1111,"Tombali",93
+1112,"Quinara",93
+1113,"Oio",93
+1114,"Gabú",93
+1115,"Cacheu",93
+1116,"Bolama and Bijagos",93
+1117,"Bissau Autonomous Region",93
+1118,"Biombo",93
+1119,"Bafatá",93
+1120,"Upper Takutu-Upper Essequibo",94
+1121,"Upper Demerara-Berbice",94
+1122,"Potaro-Siparuni",94
+1123,"Pomeroon-Supenaam",94
+1124,"Mahaica-Berbice",94
+1125,"Essequibo Islands-West Demerara",94
+1126,"East Berbice-Corentyne",94
+1127,"Demerara-Mahaica",94
+1128,"Cuyuni-Mazaruni",94
+1129,"Barima-Waini",94
+1130,"Yuen Long",95
+1131,"Tsuen Wan",95
+1132,"Tai Po",95
+1133,"Sai Kung",95
+1134,"Islands",95
+1135,"Central and Western",95
+1136,"Wan Chai",95
+1137,"Eastern",95
+1138,"Southern",95
+1139,"Yau Tsim Mong",95
+1140,"Sham Shui Po",95
+1141,"Kowloon City",95
+1142,"Wong Tai Sin",95
+1143,"Kwon Tong",95
+1144,"Kwai Tsing",95
+1145,"Tuen Mun",95
+1146,"North",95
+1147,"Sha Tin",95
+1148,"Yoro",97
+1149,"Valle",97
+1150,"Santa Bárbara",97
+1151,"Olancho",97
+1152,"Ocotepeque",97
+1153,"Lempira",97
+1154,"La Paz",97
+1155,"Islas de la Bahía",97
+1156,"Intibucá",97
+1157,"Gracias a Dios",97
+1158,"Francisco Morazán",97
+1159,"El Paraíso",97
+1160,"Cortés",97
+1161,"Copán",97
+1162,"Comayagua",97
+1163,"Colón",97
+1164,"Choluteca",97
+1165,"Atlántida",97
+1166,"Bjelovarsko-Bilogorska",98
+1167,"Brodsko-Posavska",98
+1168,"Dubrovačko-Neretvanska",98
+1169,"Istarska",98
+1170,"Karlovačka",98
+1171,"Koprivničko-Križevačka",98
+1172,"Krapinsko-Zagorska",98
+1173,"Ličko-Senjska",98
+1174,"Međimurska",98
+1175,"Osječko-Baranjska",98
+1176,"Požeško-Slavonska",98
+1177,"Primorsko-Goranska",98
+1178,"Šibensko-Kniniska",98
+1179,"Sisačko-Moslavačka",98
+1180,"Splitsko-Dalmatinska",98
+1181,"Varaždinska",98
+1182,"Vukovarsko-Srijemska",98
+1183,"Zadarska",98
+1184,"Zagrebačka",98
+1185,"Grad Zagreb",98
+1186,"Virovitičk-Podravska",98
+1187,"Sud-Est",99
+1188,"Sud",99
+1189,"Ouest",99
+1190,"Nord-Ouest",99
+1191,"Nord-Est",99
+1192,"Nord",99
+1193,"GrandʼAnse",99
+1194,"Centre",99
+1195,"Artibonite",99
+1196,"Nippes",99
+1197,"Szabolcs-Szatmár-Bereg",100
+1198,"Jász-Nagykun-Szolnok",100
+1199,"Heves",100
+1200,"Hajdú-Bihar",100
+1201,"Csongrád",100
+1202,"Borsod-Abaúj-Zemplén",100
+1203,"Békés",100
+1204,"Zala",100
+1205,"Veszprém",100
+1206,"Vas",100
+1207,"Tolna",100
+1208,"Somogy",100
+1209,"Pest",100
+1210,"Nógrád",100
+1211,"Komárom-Esztergom",100
+1212,"Győr-Moson-Sopron",100
+1213,"Fejér",100
+1214,"Budapest",100
+1215,"Baranya",100
+1216,"Bács-Kiskun",100
+1217,"North Sumatra",101
+1218,"Aceh",101
+1219,"Daerah Istimewa Yogyakarta",101
+1220,"South Sumatra",101
+1221,"West Sumatra",101
+1222,"North Sulawesi",101
+1223,"Sulawesi Tenggara",101
+1224,"Central Sulawesi",101
+1225,"South Sulawesi",101
+1226,"Riau",101
+1227,"East Nusa Tenggara",101
+1228,"Nusa Tenggara Barat",101
+1229,"Maluku",101
+1230,"Lampung",101
+1231,"East Kalimantan",101
+1232,"Kalimantan Tengah",101
+1233,"South Kalimantan",101
+1234,"West Kalimantan",101
+1235,"East Java",101
+1236,"Central Java",101
+1237,"West Java",101
+1238,"Jambi",101
+1239,"Jakarta Raya",101
+1240,"Papua",101
+1241,"Bengkulu",101
+1242,"Bali",101
+1243,"Banten",101
+1244,"Gorontalo",101
+1245,"Bangka-Belitung",101
+1246,"Maluku Utara",101
+1247,"Irian Jaya Barat",101
+1248,"Sulawesi Barat",101
+1249,"Riau Islands",101
+1250,"Connaught",102
+1251,"Leinster",102
+1252,"Munster",102
+1253,"Ulster",102
+1254,"Jerusalem District",103
+1255,"Tel Aviv",103
+1256,"Haifa",103
+1257,"Northern District",103
+1258,"Central District",103
+1259,"Southern District",103
+1260,"Bengal",105
+1261,"Uttar Pradesh",105
+1262,"Tripura",105
+1263,"Tamil Nādu",105
+1264,"Sikkim",105
+1265,"Rajasthan",105
+1266,"Punjab",105
+1267,"Pondicherry",105
+1268,"Orissa",105
+1269,"Nāgāland",105
+1270,"Mizoram",105
+1271,"Meghālaya",105
+1272,"Manipur",105
+1273,"Mahārāshtra",105
+1274,"Madhya Pradesh",105
+1275,"Laccadives",105
+1276,"Kerala",105
+1277,"Karnātaka",105
+1278,"Jammu and Kashmir",105
+1279,"Himachal Pradesh",105
+1280,"Haryana",105
+1281,"Gujarāt",105
+1282,"Daman and Diu",105
+1283,"Goa",105
+1284,"NCT",105
+1285,"Dādra and Nagar Haveli",105
+1286,"Chandīgarh",105
+1287,"Bihār",105
+1288,"Assam",105
+1289,"Arunāchal Pradesh",105
+1290,"Andhra Pradesh",105
+1291,"Andaman and Nicobar Islands",105
+1292,"Chhattisgarh",105
+1293,"Jharkhand",105
+1294,"Uttarakhand",105
+1295,"Al Başrah",107
+1296,"Wāsiţ",107
+1297,"Şalāḩ ad Dīn",107
+1298,"Nīnawá",107
+1299,"Maysan",107
+1300,"Karbalāʼ",107
+1301,"Arbīl",107
+1302,"Diyala",107
+1303,"Dhi Qar",107
+1304,"Dahūk",107
+1305,"Baghdād",107
+1306,"Bābil",107
+1307,"At Taʼmīm",107
+1308,"As Sulaymānīyah",107
+1309,"An Najaf",107
+1310,"Al Qādisīyah",107
+1311,"Al Muthanná",107
+1312,"Anbar",107
+1313,"Tehrān",108
+1314,"Zanjan",108
+1315,"Yazd",108
+1316,"Semnān",108
+1317,"Māzandarān",108
+1318,"Markazi",108
+1319,"Lorestān",108
+1320,"Kordestān",108
+1321,"Kohgīlūyeh va Būyer Aḩmad",108
+1322,"Khūzestān",108
+1323,"Kermānshāh",108
+1324,"Kermān",108
+1325,"Īlām",108
+1326,"Hormozgān",108
+1327,"Hamadān",108
+1328,"Gīlān",108
+1329,"Fārs",108
+1330,"Chahār Maḩāll va Bakhtīārī",108
+1331,"Bushehr",108
+1332,"East Azarbaijan",108
+1333,"Āz̄ārbāyjān-e Gharbī",108
+1334,"Ardabīl",108
+1335,"Eşfahān",108
+1336,"Golestān",108
+1337,"Qazvīn",108
+1338,"Qom",108
+1339,"Sīstān va Balūchestān",108
+1340,"Khorāsān-e Jonūbī",108
+1341,"Razavi Khorasan",108
+1342,"Khorāsān-e Shomālī",108
+1343,"Ostān-e Alborz",108
+1344,"Northwest",109
+1345,"Northeast",109
+1346,"East",109
+1347,"South",109
+1348,"Capital Region",109
+1349,"Southern Peninsula",109
+1350,"West",109
+1351,"Westfjords",109
+1352,"Sicily",110
+1353,"Sardinia",110
+1354,"Calabria",110
+1355,"Veneto",110
+1356,"Aosta Valley",110
+1357,"Umbria",110
+1358,"Trentino-Alto Adige",110
+1359,"Tuscany",110
+1360,"Apulia",110
+1361,"Piedmont",110
+1362,"Molise",110
+1363,"The Marches",110
+1364,"Lombardy",110
+1365,"Liguria",110
+1366,"Latium",110
+1367,"Friuli Venezia Giulia",110
+1368,"Emilia-Romagna",110
+1369,"Campania",110
+1370,"Basilicate",110
+1371,"Abruzzo",110
+1372,"Westmoreland",112
+1373,"Trelawny",112
+1374,"Saint Thomas",112
+1375,"Saint Mary",112
+1376,"Saint James",112
+1377,"St. Elizabeth",112
+1378,"Saint Catherine",112
+1379,"Saint Ann",112
+1380,"Saint Andrew",112
+1381,"Portland",112
+1382,"Manchester",112
+1383,"Kingston",112
+1384,"Hanover Parish",112
+1385,"Clarendon",112
+1386,"Ma’an",113
+1387,"Irbid",113
+1388,"Zarqa",113
+1389,"Tafielah",113
+1390,"Amman",113
+1391,"Mafraq",113
+1392,"Karak",113
+1393,"Balqa",113
+1394,"Ajlun",113
+1395,"Jerash",113
+1396,"Aqaba",113
+1397,"Madaba",113
+1398,"Yamanashi",114
+1399,"Yamaguchi",114
+1400,"Wakayama",114
+1401,"Toyama",114
+1402,"Tottori",114
+1403,"Tōkyō",114
+1404,"Tokushima",114
+1405,"Tochigi",114
+1406,"Shizuoka",114
+1407,"Shimane",114
+1408,"Shiga",114
+1409,"Saitama",114
+1410,"Saga",114
+1411,"Ōsaka",114
+1412,"Okinawa",114
+1413,"Okayama",114
+1414,"Ōita",114
+1415,"Niigata",114
+1416,"Nara",114
+1417,"Nagasaki",114
+1418,"Nagano",114
+1419,"Miyazaki",114
+1420,"Mie",114
+1421,"Kyōto",114
+1422,"Kumamoto",114
+1423,"Kōchi",114
+1424,"Kanagawa",114
+1425,"Kagoshima",114
+1426,"Kagawa",114
+1427,"Ishikawa",114
+1428,"Hyōgo",114
+1429,"Hiroshima",114
+1430,"Gunma",114
+1431,"Gifu",114
+1432,"Fukuoka",114
+1433,"Fukui",114
+1434,"Ehime",114
+1435,"Aichi",114
+1436,"Yamagata",114
+1437,"Miyagi",114
+1438,"Iwate",114
+1439,"Ibaraki",114
+1440,"Fukushima",114
+1441,"Chiba",114
+1442,"Akita",114
+1443,"Hokkaidō",114
+1444,"Aomori",114
+1445,"Nyanza",115
+1446,"Nairobi Area",115
+1447,"Coast",115
+1448,"Eastern",115
+1449,"Central",115
+1450,"Western",115
+1451,"Rift Valley",115
+1452,"North-Eastern",115
+1453,"Osh",116
+1454,"Batken",116
+1455,"Talas",116
+1456,"Naryn",116
+1457,"Ysyk-Köl",116
+1458,"Bishkek",116
+1459,"Jalal-Abad",116
+1460,"Chüy",116
+1461,"Poŭthĭsăt",117
+1462,"Khétt Bătdâmbâng",117
+1463,"Takêv",117
+1464,"Svay Riĕng",117
+1465,"Stœ̆ng Trêng",117
+1466,"Ŏtâr Méanchey",117
+1467,"Khétt Siĕm Réab",117
+1468,"Khêtt Rôtânôkiri",117
+1469,"Prey Vêng",117
+1470,"Preăh Vĭhéar",117
+1471,"Krŏng Phnum Pénh",117
+1472,"Khétt Pailĭn",117
+1473,"Môndól Kiri",117
+1474,"Krâchéh",117
+1475,"Khétt Kêb",117
+1476,"Kaôh Kŏng",117
+1477,"Kândal",117
+1478,"Khétt Kâmpôt",117
+1479,"Kâmpóng Thum",117
+1480,"Khétt Kâmpóng Spœ",117
+1481,"Kâmpóng Chhnăng",117
+1482,"Kâmpóng Cham",117
+1483,"Khétt Preăh Seihânŭ",117
+1484,"Khétt Bântéay Méan Choăy",117
+1485,"Battambang",117
+1486,"Gilbert Islands",118
+1487,"Line Islands",118
+1488,"Phoenix Islands",118
+1489,"Mohéli",119
+1490,"Grande Comore",119
+1491,"Anjouan",119
+1492,"Trinity Palmetto Point",120
+1493,"Saint Thomas Middle Island",120
+1494,"Saint Thomas Lowland",120
+1495,"Saint Peter Basseterre",120
+1496,"Saint Paul Charlestown",120
+1497,"Saint Paul Capesterre",120
+1498,"Saint Mary Cayon",120
+1499,"Saint John Figtree",120
+1500,"Saint John Capesterre",120
+1501,"Saint James Windwa",120
+1502,"Saint George Gingerland",120
+1503,"Saint George Basseterre",120
+1504,"Saint Anne Sandy Point",120
+1505,"Christ Church Nichola Town",120
+1506,"P'yŏngyang-si",121
+1507,"P'yŏngan-namdo",121
+1508,"P'yŏngan-bukto",121
+1509,"Gangwon",121
+1510,"Hwanghae-namdo",121
+1511,"Hwanghae-bukto",121
+1512,"Hamgyŏng-namdo",121
+1513,"Yanggang-do",121
+1514,"Hamgyŏng-bukto",121
+1515,"Chagang-do",121
+1516,"Najin Sŏnbong-si",121
+1517,"Ulsan",122
+1518,"Daejeon",122
+1519,"Daegu",122
+1520,"Seoul",122
+1521,"Busan",122
+1522,"North Gyeongsang",122
+1523,"Gyeonggi",122
+1524,"Gwangju",122
+1525,"Gangwon",122
+1526,"Incheon",122
+1527,"South Chungcheong",122
+1528,"North Chungcheong",122
+1529,"South Jeolla",122
+1530,"North Jeolla",122
+1531,"Jeju",122
+1532,"South Gyeongsang",122
+1533,"Ḩawallī",124
+1534,"Al ‘Āşimah",124
+1535,"Al Jahrāʼ",124
+1536,"Al Farwaniyah",124
+1537,"Al Aḩmadī",124
+1538,"Muḩāfaz̧at Mubārak al Kabīr",124
+1539,"Batys Qazaqstan",126
+1540,"Mangghystaū",126
+1541,"Atyraū",126
+1542,"Aqtöbe",126
+1543,"East Kazakhstan",126
+1544,"Aqmola",126
+1545,"Soltüstik Qazaqstan",126
+1546,"Pavlodar",126
+1547,"Qyzylorda",126
+1548,"Qostanay",126
+1549,"Qaraghandy",126
+1550,"Zhambyl",126
+1551,"Ongtüstik Qazaqstan",126
+1552,"Almaty Qalasy",126
+1553,"Almaty",126
+1554,"Bayqongyr Qalasy",126
+1555,"Astana Qalasy",126
+1556,"Xiangkhoang",127
+1557,"Xiagnabouli",127
+1558,"Khouèng Viangchan",127
+1559,"Savannahkhét",127
+1560,"Salavan",127
+1561,"Phôngsali",127
+1562,"Oudômxai",127
+1563,"Louangphabang",127
+1564,"Loungnamtha",127
+1565,"Khammouan",127
+1566,"Houaphan",127
+1567,"Champasak",127
+1568,"Attapu",127
+1569,"Xékong",127
+1570,"Bokèo",127
+1571,"Bolikhamxai",127
+1572,"Viangchan",127
+1573,"Mont-Liban",128
+1574,"Beyrouth",128
+1575,"Liban-Nord",128
+1576,"Liban-Sud",128
+1577,"Béqaa",128
+1578,"Nabatîyé",128
+1579,"Aakkâr",128
+1580,"Baalbek-Hermel",128
+1581,"Vieux-Fort",129
+1582,"Soufrière",129
+1583,"Praslin",129
+1584,"Micoud",129
+1585,"Laborie",129
+1586,"Gros-Islet",129
+1587,"Dennery",129
+1588,"Dauphin",129
+1589,"Choiseul",129
+1590,"Castries",129
+1591,"Anse-la-Raye",129
+1592,"Vaduz",130
+1593,"Triesenberg",130
+1594,"Triesen",130
+1595,"Schellenberg",130
+1596,"Schaan",130
+1597,"Ruggell",130
+1598,"Planken",130
+1599,"Mauren",130
+1600,"Gamprin",130
+1601,"Eschen",130
+1602,"Balzers",130
+1603,"Western",131
+1604,"Uva",131
+1605,"Southern",131
+1606,"Sabaragamuwa",131
+1607,"North Western",131
+1608,"North Eastern",131
+1609,"North Central",131
+1610,"Central",131
+1611,"Northern Province",131
+1612,"Sinoe",132
+1613,"Nimba",132
+1614,"Montserrado",132
+1615,"Maryland",132
+1616,"Lofa",132
+1617,"Grand Gedeh",132
+1618,"Grand Cape Mount",132
+1619,"Grand Bassa",132
+1620,"Bong",132
+1621,"Bomi",132
+1622,"Grand Kru",132
+1623,"Margibi",132
+1624,"River Cess",132
+1625,"Gbarpolu",132
+1626,"River Gee",132
+1627,"Thaba-Tseka",133
+1628,"Quthing",133
+1629,"Qachaʼs Nek",133
+1630,"Mokhotlong",133
+1631,"Mohaleʼs Hoek",133
+1632,"Maseru",133
+1633,"Mafeteng",133
+1634,"Leribe",133
+1635,"Butha-Buthe",133
+1636,"Berea",133
+1637,"Alytaus Apskritis",134
+1638,"Kauno Apskritis",134
+1639,"Klaipėdos Apskritis",134
+1640,"Marijampolės Apskritis",134
+1641,"Panevėžio Apskritis",134
+1642,"Šiaulių Apskritis",134
+1643,"Tauragės Apskritis",134
+1644,"Telšių Apskritis",134
+1645,"Utenos Apskritis",134
+1646,"Vilniaus Apskritis",134
+1647,"Luxembourg",135
+1648,"Grevenmacher",135
+1649,"Diekirch",135
+1650,"Ventspils Rajons",136
+1651,"Ventspils",136
+1652,"Valmieras Rajons",136
+1653,"Valkas Rajons",136
+1654,"Tukuma Rajons",136
+1655,"Talsu Rajons",136
+1656,"Saldus Rajons",136
+1657,"Rīgas Rajons",136
+1658,"Rīga",136
+1659,"Rēzeknes Rajons",136
+1660,"Rēzekne",136
+1661,"Preiļu Rajons",136
+1662,"Ogres Rajons",136
+1663,"Madonas Rajons",136
+1664,"Ludzas Rajons",136
+1665,"Limbažu Rajons",136
+1666,"Liepājas Rajons",136
+1667,"Liepāja",136
+1668,"Kuldīgas Rajons",136
+1669,"Krāslavas Rajons",136
+1670,"Jūrmala",136
+1671,"Jelgavas Rajons",136
+1672,"Jelgava",136
+1673,"Jēkabpils Rajons",136
+1674,"Gulbenes Rajons",136
+1675,"Dobeles Rajons",136
+1676,"Daugavpils Rajons",136
+1677,"Daugavpils",136
+1678,"Cēsu Rajons",136
+1679,"Bauskas Rajons",136
+1680,"Balvu Rajons",136
+1681,"Alūksnes Rajons",136
+1682,"Aizkraukles Rajons",136
+1683,"Dundagas Novads",136
+1684,"Alsungas Novads",136
+1685,"Pāvilostas Novads",136
+1686,"Nīcas Novads",136
+1687,"Rucavas Novads",136
+1688,"Grobiņas Novads",136
+1689,"Durbes Novads",136
+1690,"Aizputes Novads",136
+1691,"Priekules Novads",136
+1692,"Vaiņodes Novads",136
+1693,"Skrundas Novads",136
+1694,"Brocēnu Novads",136
+1695,"Rojas Novads",136
+1696,"Kandavas Novads",136
+1697,"Auces Novads",136
+1698,"Jaunpils Novads",136
+1699,"Engures Novads",136
+1700,"Tērvetes Novads",136
+1701,"Ozolnieku Novads",136
+1702,"Rundāles Novads",136
+1703,"Babītes Novads",136
+1704,"Mārupes Novads",136
+1705,"Olaines Novads",136
+1706,"Iecavas Novads",136
+1707,"Ķekavas Novads",136
+1708,"Salaspils Novads",136
+1709,"Baldones Novads",136
+1710,"Stopiņu Novads",136
+1711,"Carnikavas Novads",136
+1712,"Ādažu Novads",136
+1713,"Garkalnes Novads",136
+1714,"Vecumnieku Novads",136
+1715,"Ķeguma Novads",136
+1716,"Lielvārdes Novads",136
+1717,"Skrīveru Novads",136
+1718,"Jaunjelgavas Novads",136
+1719,"Neretas Novads",136
+1720,"Viesītes Novads",136
+1721,"Salas Novads",136
+1722,"Jēkabpils",136
+1723,"Aknīstes Novads",136
+1724,"Ilūkstes Novads",136
+1725,"Vārkavas Novads",136
+1726,"Līvānu Novads",136
+1727,"Varakļānu Novads",136
+1728,"Viļānu Novads",136
+1729,"Riebiņu Novads",136
+1730,"Aglonas Novads",136
+1731,"Ciblas Novads",136
+1732,"Zilupes Novads",136
+1733,"Viļakas Novads",136
+1734,"Baltinavas Novads",136
+1735,"Dagdas Novads",136
+1736,"Kārsavas Novads",136
+1737,"Rugāju Novads",136
+1738,"Cesvaines Novads",136
+1739,"Lubānas Novads",136
+1740,"Krustpils Novads",136
+1741,"Pļaviņu Novads",136
+1742,"Kokneses Novads",136
+1743,"Ikšķiles Novads",136
+1744,"Ropažu Novads",136
+1745,"Inčukalna Novads",136
+1746,"Krimuldas Novads",136
+1747,"Siguldas Novads",136
+1748,"Līgatnes Novads",136
+1749,"Mālpils Novads",136
+1750,"Sējas Novads",136
+1751,"Saulkrastu Novads",136
+1752,"Salacgrīvas Novads",136
+1753,"Alojas Novads",136
+1754,"Naukšēnu Novads",136
+1755,"Rūjienas Novads",136
+1756,"Mazsalacas Novads",136
+1757,"Burtnieku Novads",136
+1758,"Pārgaujas Novads",136
+1759,"Kocēnu Novads",136
+1760,"Amatas Novads",136
+1761,"Priekuļu Novads",136
+1762,"Raunas Novads",136
+1763,"Strenču Novads",136
+1764,"Beverīnas Novads",136
+1765,"Smiltenes Novads",136
+1766,"Jaunpiebalgas Novads",136
+1767,"Ērgļu Novads",136
+1768,"Vecpiebalgas Novads",136
+1769,"Apes Novads",136
+1770,"Darnah",137
+1771,"Banghāzī",137
+1772,"Al Marj",137
+1773,"Al Kufrah",137
+1774,"Al Jabal al Akhḑar",137
+1775,"Ţarābulus",137
+1776,"Surt",137
+1777,"Sabhā",137
+1778,"Nālūt",137
+1779,"Murzuq",137
+1780,"Mişrātah",137
+1781,"Ghāt",137
+1782,"Az Zāwiyah",137
+1783,"Ash Shāţiʼ",137
+1784,"Al Jufrah",137
+1785,"An Nuqāţ al Khams",137
+1786,"Sha‘bīyat al Buţnān",137
+1787,"Sha‘bīyat al Jabal al Gharbī",137
+1788,"Sha‘bīyat al Jafārah",137
+1789,"Sha‘bīyat al Marqab",137
+1790,"Sha‘bīyat al Wāḩāt",137
+1791,"Sha‘bīyat Wādī al Ḩayāt",137
+1792,"Rabat-Salé-Zemmour-Zaër",138
+1793,"Meknès-Tafilalet",138
+1794,"Marrakech-Tensift-Al Haouz",138
+1795,"Fès-Boulemane",138
+1796,"Grand Casablanca",138
+1797,"Chaouia-Ouardigha",138
+1798,"Doukkala-Abda",138
+1799,"Gharb-Chrarda-Beni Hssen",138
+1800,"Guelmim-Es Smara",138
+1801,"Oriental",138
+1802,"Souss-Massa-Drâa",138
+1803,"Tadla-Azilal",138
+1804,"Tanger-Tétouan",138
+1805,"Taza-Al Hoceima-Taounate",138
+1806,"Laâyoune-Boujdour-Sakia El Hamra",138
+1807,"Oued ed Dahab-Lagouira",138
+1808,"Raionul Edineţ",140
+1809,"Raionul Ungheni",140
+1810,"Raionul Teleneşti",140
+1811,"Raionul Taraclia",140
+1812,"Ştefan-Vodă",140
+1813,"Raionul Străşeni",140
+1814,"Raionul Soroca",140
+1815,"Raionul Rîşcani",140
+1816,"Raionul Rezina",140
+1817,"Raionul Orhei",140
+1818,"Raionul Ocniţa",140
+1819,"Raionul Anenii Noi",140
+1820,"Raionul Nisporeni",140
+1821,"Raionul Leova",140
+1822,"Raionul Sîngerei",140
+1823,"Raionul Criuleni",140
+1824,"Raionul Ialoveni",140
+1825,"Chişinău",140
+1826,"Căuşeni",140
+1827,"Raionul Cantemir",140
+1828,"Călăraşi",140
+1829,"Raionul Cahul",140
+1830,"Raionul Glodeni",140
+1831,"Raionul Floreşti",140
+1832,"Raionul Făleşti",140
+1833,"Dubăsari",140
+1834,"Raionul Drochia",140
+1835,"Raionul Donduşeni",140
+1836,"Raionul Cimişlia",140
+1837,"Raionul Briceni",140
+1838,"Raionul Basarabeasca",140
+1839,"Raionul Hînceşti",140
+1840,"Raionul Şoldăneşti",140
+1841,"Stînga Nistrului",140
+1842,"Găgăuzia",140
+1843,"Bender",140
+1844,"Bălţi",140
+1845,"Opština Rožaje",141
+1846,"Opština Žabljak",141
+1847,"Opština Ulcinj",141
+1848,"Opština Tivat",141
+1849,"Opština Podgorica",141
+1850,"Opština Šavnik",141
+1851,"Opština Plužine",141
+1852,"Opština Pljevlja",141
+1853,"Opština Plav",141
+1854,"Opština Nikšić",141
+1855,"Opština Mojkovac",141
+1856,"Opština Kotor",141
+1857,"Opština Kolašin",141
+1858,"Opština Berane",141
+1859,"Opština Herceg Novi",141
+1860,"Opština Danilovgrad",141
+1861,"Opština Cetinje",141
+1862,"Opština Budva",141
+1863,"Opština Bijelo Polje",141
+1864,"Opština Bar",141
+1865,"Opština Andrijevica",141
+1866,"Diana",143
+1867,"Sava",143
+1868,"Sofia",143
+1869,"Analanjirofo",143
+1870,"Boeny",143
+1871,"Betsiboka",143
+1872,"Alaotra-Mangoro",143
+1873,"Melaky",143
+1874,"Bongolava",143
+1875,"Vakinankaratra",143
+1876,"Itasy",143
+1877,"Analamanga",143
+1878,"East",143
+1879,"Menabe",143
+1880,"Amoron'i Mania",143
+1881,"Upper Matsiatra",143
+1882,"Vatovavy-Fitovinany",143
+1883,"Ihorombe",143
+1884,"South-East",143
+1885,"Anosy",143
+1886,"Androy",143
+1887,"South-West",143
+1888,"Ailinginae Atoll",144
+1889,"Ailinglaplap Atoll",144
+1890,"Ailuk Atoll",144
+1891,"Arno Atoll",144
+1892,"Aur Atoll",144
+1893,"Bikar Atoll",144
+1894,"Bikini Atoll",144
+1895,"Ebon Atoll",144
+1896,"Enewetak Atoll",144
+1897,"Erikub Atoll",144
+1898,"Jaluit Atoll",144
+1899,"Kwajalein Atoll",144
+1900,"Lae Atoll",144
+1901,"Likiep Atoll",144
+1902,"Majuro Atoll",144
+1903,"Maloelap Atoll",144
+1904,"Mili Atoll",144
+1905,"Namdrik Atoll",144
+1906,"Namu Atoll",144
+1907,"Rongelap Atoll",144
+1908,"Rongrik Atoll",144
+1909,"Taka Atoll",144
+1910,"Bokak Atoll",144
+1911,"Ujae Atoll",144
+1912,"Ujelang",144
+1913,"Utrik Atoll",144
+1914,"Wotho Atoll",144
+1915,"Wotje Atoll",144
+1916,"Jabat Island",144
+1917,"Jemo Island",144
+1918,"Kili Island",144
+1919,"Lib Island",144
+1920,"Mejit Island",144
+1921,"Valandovo",145
+1922,"Kratovo",145
+1923,"Pehčevo",145
+1924,"Novo Selo",145
+1925,"Bosilovo",145
+1926,"Vasilevo",145
+1927,"Dojran",145
+1928,"Bogdanci",145
+1929,"Konče",145
+1930,"Makedonska Kamenica",145
+1931,"Zrnovci",145
+1932,"Karbinci",145
+1933,"Demir Kapija",145
+1934,"Rosoman",145
+1935,"Gradsko",145
+1936,"Lozovo",145
+1937,"Češinovo",145
+1938,"Novaci",145
+1939,"Berovo",145
+1940,"Bitola",145
+1941,"Mogila",145
+1942,"Aračinovo",145
+1943,"Bogovinje",145
+1944,"Brvenica",145
+1945,"Čair",145
+1946,"Čaška",145
+1947,"Centar",145
+1948,"Centar Župa",145
+1949,"Čučer-Sandevo",145
+1950,"Debar",145
+1951,"Delčevo",145
+1952,"Demir Hisar",145
+1953,"Opstina Gjorce Petrov",145
+1954,"Drugovo",145
+1955,"Gazi Baba",145
+1956,"Gevgelija",145
+1957,"Gostivar",145
+1958,"Ilinden",145
+1959,"Jegunovce",145
+1960,"Karpoš",145
+1961,"Kavadarci",145
+1962,"Kičevo",145
+1963,"Kisela Voda",145
+1964,"Kočani",145
+1965,"Kriva Palanka",145
+1966,"Krivogaštani",145
+1967,"Kruševo",145
+1968,"Kumanovo",145
+1969,"Opstina Lipkovo",145
+1970,"Makedonski Brod",145
+1971,"Negotino",145
+1972,"Ohrid",145
+1973,"Oslomej",145
+1974,"Petrovec",145
+1975,"Plasnica",145
+1976,"Prilep",145
+1977,"Probištip",145
+1978,"Radoviš",145
+1979,"Opstina Rankovce",145
+1980,"Opština Rostuša",145
+1981,"Saraj",145
+1982,"Sopište",145
+1983,"Staro Nagoričane",145
+1984,"Štip",145
+1985,"Struga",145
+1986,"Strumica",145
+1987,"Studeničani",145
+1988,"Šuto Orizari",145
+1989,"Sveti Nikole",145
+1990,"Tearce",145
+1991,"Tetovo",145
+1992,"Veles",145
+1993,"Vevčani",145
+1994,"Vinica",145
+1995,"Vraneštica",145
+1996,"Vrapčište",145
+1997,"Zajas",145
+1998,"Zelenikovo",145
+1999,"Želino",145
+2000,"Opština Aerodrom",145
+2001,"Opština Butel",145
+2002,"Opština Debarca",145
+2003,"Tombouctou",146
+2004,"Sikasso",146
+2005,"Ségou",146
+2006,"Mopti",146
+2007,"Koulikoro",146
+2008,"Kayes",146
+2009,"Gao",146
+2010,"Bamako",146
+2011,"Kidal",146
+2012,"Tanintharyi",147
+2013,"Shan",147
+2014,"Sagain",147
+2015,"Yangon",147
+2016,"Rakhine",147
+2017,"Bago",147
+2018,"Mon",147
+2019,"Mandalay",147
+2020,"Magway",147
+2021,"Kayah",147
+2022,"Kayin",147
+2023,"Kachin",147
+2024,"Ayeyarwady",147
+2025,"Chin",147
+2026,"Uvs",148
+2027,"Hovd",148
+2028,"Govĭ-Altay",148
+2029,"Dzavhan",148
+2030,"Bayan-Ölgiy",148
+2031,"Bayanhongor",148
+2032,"Ulaanbaatar",148
+2033,"Central Aymag",148
+2034,"Sühbaatar",148
+2035,"Selenge",148
+2036,"Övörhangay",148
+2037,"South Govĭ",148
+2038,"Hövsgöl",148
+2039,"Hentiy",148
+2040,"Middle Govĭ",148
+2041,"East Gobi Aymag",148
+2042,"Eastern",148
+2043,"Bulgan",148
+2044,"Arhangay",148
+2045,"Darhan Uul",148
+2046,"Govĭ-Sumber",148
+2047,"Orhon",148
+2048,"Macau",149
+2049,"Ilhas",149
+2050,"Rota Municipality",150
+2051,"Saipan Municipality",150
+2052,"Tinian Municipality",150
+2053,"Northern Islands Municipality",150
+2054,"Martinique",151
+2055,"Trarza",152
+2056,"Tiris Zemmour",152
+2057,"Tagant",152
+2058,"Nouakchott",152
+2059,"Inchiri",152
+2060,"Wilaya du Hodh el Gharbi",152
+2061,"Hodh ech Chargui",152
+2062,"Guidimaka",152
+2063,"Gorgol",152
+2064,"Dakhlet Nouadhibou",152
+2065,"Brakna",152
+2066,"Assaba",152
+2067,"Adrar",152
+2068,"Saint Peter",153
+2069,"Saint Georges",153
+2070,"Saint Anthony",153
+2071,"Agalega Islands",155
+2072,"Savanne",155
+2073,"Rivière du Rempart",155
+2074,"Port Louis",155
+2075,"Plaines Wilhems",155
+2076,"Pamplemousses",155
+2077,"Moka",155
+2078,"Grand Port",155
+2079,"Flacq",155
+2080,"Black River",155
+2081,"Cargados Carajos",155
+2082,"Rodrigues",155
+2083,"Vaavu Atholhu",156
+2084,"Thaa Atholhu",156
+2085,"Shaviyani Atholhu",156
+2086,"Seenu",156
+2087,"Raa Atholhu",156
+2088,"Noonu Atholhu",156
+2089,"Gnyaviyani Atoll",156
+2090,"Meemu Atholhu",156
+2091,"Lhaviyani Atholhu",156
+2092,"Laamu",156
+2093,"Kaafu Atholhu",156
+2094,"Haa Dhaalu Atholhu",156
+2095,"Haa Alifu Atholhu",156
+2096,"Gaafu Dhaalu Atholhu",156
+2097,"Gaafu Alifu Atholhu",156
+2098,"Faafu Atholhu",156
+2099,"Dhaalu Atholhu",156
+2100,"Baa Atholhu",156
+2101,"Alifu Atholhu",156
+2102,"Maale",156
+2103,"Southern Region",157
+2104,"Northern Region",157
+2105,"Central Region",157
+2106,"Yucatán",158
+2107,"Veracruz-Llave",158
+2108,"Tlaxcala",158
+2109,"Tamaulipas",158
+2110,"Tabasco",158
+2111,"Quintana Roo",158
+2112,"Querétaro",158
+2113,"Puebla",158
+2114,"Oaxaca",158
+2115,"Nuevo León",158
+2116,"Morelos",158
+2117,"México",158
+2118,"Hidalgo",158
+2119,"Guerrero",158
+2120,"The Federal District",158
+2121,"Chiapas",158
+2122,"Campeche",158
+2123,"Zacatecas",158
+2124,"Sonora",158
+2125,"Sinaloa",158
+2126,"San Luis Potosí",158
+2127,"Nayarit",158
+2128,"Michoacán",158
+2129,"Jalisco",158
+2130,"Guanajuato",158
+2131,"Durango",158
+2132,"Colima",158
+2133,"Coahuila",158
+2134,"Chihuahua",158
+2135,"Baja California Sur",158
+2136,"Baja California",158
+2137,"Aguascalientes",158
+2138,"Melaka",159
+2139,"Terengganu",159
+2140,"Selangor",159
+2141,"Sarawak",159
+2142,"Sabah",159
+2143,"Perlis",159
+2144,"Perak",159
+2145,"Pahang",159
+2146,"Negeri Sembilan",159
+2147,"Kelantan",159
+2148,"Kuala Lumpur",159
+2149,"Pulau Pinang",159
+2150,"Kedah",159
+2151,"Johor",159
+2152,"Labuan",159
+2153,"Putrajaya",159
+2154,"Zambézia",160
+2155,"Tete",160
+2156,"Sofala",160
+2157,"Niassa",160
+2158,"Nampula",160
+2159,"Maputo",160
+2160,"Manica",160
+2161,"Inhambane",160
+2162,"Gaza",160
+2163,"Cabo Delgado",160
+2164,"Maputo City",160
+2165,"Caprivi",161
+2166,"Khomas",161
+2167,"Erongo",161
+2168,"Hardap",161
+2169,"Karas",161
+2170,"Kunene",161
+2171,"Ohangwena",161
+2172,"Okavango",161
+2173,"Omaheke",161
+2174,"Omusati",161
+2175,"Oshana",161
+2176,"Oshikoto",161
+2177,"Otjozondjupa",161
+2178,"Province Sud",162
+2179,"Province Nord",162
+2180,"Province des îles Loyauté",162
+2181,"Zinder",163
+2182,"Tahoua",163
+2183,"Maradi",163
+2184,"Dosso",163
+2185,"Diffa",163
+2186,"Agadez",163
+2187,"Tillabéri",163
+2188,"Niamey",163
+2189,"Sokoto",165
+2190,"Rivers",165
+2191,"Plateau",165
+2192,"Oyo",165
+2193,"Ondo",165
+2194,"Ogun",165
+2195,"Niger",165
+2196,"Lagos",165
+2197,"Kwara",165
+2198,"Katsina",165
+2199,"Kano",165
+2200,"Kaduna",165
+2201,"Imo State",165
+2202,"Cross River",165
+2203,"Borno",165
+2204,"Benue State",165
+2205,"Bauchi State",165
+2206,"Anambra State",165
+2207,"Akwa Ibom",165
+2208,"Abuja Federal Capital Territory",165
+2209,"Abia",165
+2210,"Delta State",165
+2211,"Adamawa State",165
+2212,"Edo",165
+2213,"Enugu State",165
+2214,"Jigawa State",165
+2215,"Bayelsa",165
+2216,"Ebonyi",165
+2217,"Ekiti",165
+2218,"Gombe",165
+2219,"Nassarawa",165
+2220,"Zamfara",165
+2221,"Kebbi",165
+2222,"Kogi",165
+2223,"Osun",165
+2224,"Taraba State",165
+2225,"Yobe",165
+2226,"Rivas",166
+2227,"Río San Juan",166
+2228,"Nueva Segovia",166
+2229,"Matagalpa",166
+2230,"Masaya",166
+2231,"Managua",166
+2232,"Madriz",166
+2233,"León",166
+2234,"Jinotega",166
+2235,"Granada",166
+2236,"Estelí",166
+2237,"Chontales",166
+2238,"Chinandega",166
+2239,"Carazo",166
+2240,"Boaco",166
+2241,"Atlántico Norte",166
+2242,"Atlántico Sur",166
+2243,"South Holland",167
+2244,"Zeeland",167
+2245,"Utrecht",167
+2246,"Overijssel",167
+2247,"North Holland",167
+2248,"North Brabant",167
+2249,"Limburg",167
+2250,"Groningen",167
+2251,"Gelderland",167
+2252,"Friesland",167
+2253,"Drenthe",167
+2254,"Flevoland",167
+2255,"Finnmark",168
+2256,"Vestfold",168
+2257,"Vest-Agder",168
+2258,"Troms",168
+2259,"Telemark",168
+2260,"Sør-Trøndelag",168
+2261,"Sogn og Fjordane",168
+2262,"Rogaland",168
+2263,"Østfold",168
+2264,"Oslo",168
+2265,"Oppland",168
+2266,"Nord-Trøndelag",168
+2267,"Nordland",168
+2268,"Møre og Romsdal",168
+2269,"Hordaland",168
+2270,"Hedmark",168
+2271,"Buskerud",168
+2272,"Aust-Agder",168
+2273,"Akershus",168
+2274,"Far Western Region",169
+2275,"Mid Western Region",169
+2276,"Central Region",169
+2277,"Eastern Region",169
+2278,"Western Region",169
+2279,"Yaren",170
+2280,"Uaboe",170
+2281,"Nibok",170
+2282,"Meneng",170
+2283,"Ijuw",170
+2284,"Ewa",170
+2285,"Denigomodu",170
+2286,"Buada",170
+2287,"Boe",170
+2288,"Baiti",170
+2289,"Anibare",170
+2290,"Anetan",170
+2291,"Anabar",170
+2292,"Aiwo",170
+2293,"Wellington",172
+2294,"Manawatu-Wanganui",172
+2295,"Waikato",172
+2296,"Tasman",172
+2297,"Taranaki",172
+2298,"Southland",172
+2299,"Bay of Plenty",172
+2300,"Northland",172
+2301,"Marlborough",172
+2302,"Hawke's Bay",172
+2303,"Gisborne",172
+2304,"Canterbury",172
+2305,"Auckland",172
+2306,"Chatham Islands",172
+2307,"Nelson",172
+2308,"Otago",172
+2309,"West Coast",172
+2310,"Ad Dākhilīyah",173
+2311,"Al Bāţinah",173
+2312,"Al Wusţá",173
+2313,"Ash Sharqīyah",173
+2314,"Az̧ Z̧āhirah",173
+2315,"Masqaţ",173
+2316,"Muḩāfaz̧at Musandam",173
+2317,"Z̧ufār",173
+2318,"Muḩāfaz̧at al Buraymī",173
+2319,"Veraguas",174
+2320,"Kuna Yala",174
+2321,"Panamá",174
+2322,"Los Santos",174
+2323,"Herrera",174
+2324,"Darién",174
+2325,"Colón",174
+2326,"Coclé",174
+2327,"Chiriquí",174
+2328,"Bocas del Toro",174
+2329,"Emberá",174
+2330,"Ngöbe-Buglé",174
+2331,"Ucayali",175
+2332,"Tumbes",175
+2333,"San Martín",175
+2334,"Piura",175
+2335,"Loreto",175
+2336,"Lambayeque",175
+2337,"La Libertad",175
+2338,"Huanuco",175
+2339,"Cajamarca",175
+2340,"Ancash",175
+2341,"Amazonas",175
+2342,"Tacna",175
+2343,"Puno",175
+2344,"Pasco",175
+2345,"Moquegua",175
+2346,"Madre de Dios",175
+2347,"Provincia de Lima",175
+2348,"Lima",175
+2349,"Junín",175
+2350,"Ica",175
+2351,"Huancavelica",175
+2352,"Cusco",175
+2353,"Callao",175
+2354,"Ayacucho",175
+2355,"Arequipa",175
+2356,"Apurímac",175
+2357,"Îles Marquises",176
+2358,"Îles Tuamotu-Gambier",176
+2359,"Îles Sous-le-Vent",176
+2360,"Îles du Vent",176
+2361,"Îles Australes",176
+2362,"West New Britain",177
+2363,"Western Province",177
+2364,"Western Highlands",177
+2365,"Southern Highlands",177
+2366,"Sandaun",177
+2367,"Bougainville",177
+2368,"Northern Province",177
+2369,"New Ireland",177
+2370,"National Capital District",177
+2371,"Morobe",177
+2372,"Manus",177
+2373,"Madang",177
+2374,"Gulf",177
+2375,"Enga",177
+2376,"East Sepik",177
+2377,"East New Britain",177
+2378,"Eastern Highlands",177
+2379,"Chimbu",177
+2380,"Milne Bay",177
+2381,"Central Province",177
+2382,"Autonomous Region in Muslim Mindanao",178
+2383,"Northern Mindanao",178
+2384,"Mimaropa",178
+2385,"Cagayan Valley",178
+2386,"Soccsksargen",178
+2387,"Caraga",178
+2388,"Cordillera Administrative Region",178
+2389,"Ilocos",178
+2390,"Calabarzon",178
+2391,"Western Visayas",178
+2392,"Central Luzon",178
+2393,"Central Visayas",178
+2394,"Eastern Visayas",178
+2395,"Zamboanga Peninsula",178
+2396,"Davao",178
+2397,"Bicol",178
+2398,"National Capital Region",178
+2399,"Islāmābād",179
+2400,"Sindh",179
+2401,"Punjab",179
+2402,"North West Frontier Province",179
+2403,"Gilgit-Baltistan",179
+2404,"Federally Administered Tribal Areas",179
+2405,"Balochistān",179
+2406,"Azad Kashmir",179
+2407,"Lublin Voivodeship",180
+2408,"Lesser Poland Voivodeship",180
+2409,"Masovian Voivodeship",180
+2410,"Subcarpathian Voivodeship",180
+2411,"Podlasie",180
+2412,"Świętokrzyskie",180
+2413,"Warmian-Masurian Voivodeship",180
+2414,"Lower Silesian Voivodeship",180
+2415,"Łódź Voivodeship",180
+2416,"Lubusz",180
+2417,"Opole Voivodeship",180
+2418,"Pomeranian Voivodeship",180
+2419,"Silesian Voivodeship",180
+2420,"Greater Poland Voivodeship",180
+2421,"West Pomeranian Voivodeship",180
+2422,"Kujawsko-Pomorskie",180
+2423,"Saint-Pierre",181
+2424,"Miquelon-Langlade",181
+2425,"Adjuntas",183
+2426,"Aguada",183
+2427,"Aguadilla",183
+2428,"Aguas Buenas",183
+2429,"Aibonito",183
+2430,"Añasco",183
+2431,"Arecibo",183
+2432,"Arroyo",183
+2433,"Barceloneta",183
+2434,"Barranquitas",183
+2435,"Bayamón",183
+2436,"Cabo Rojo",183
+2437,"Caguas",183
+2438,"Camuy",183
+2439,"Canovanas",183
+2440,"Carolina",183
+2441,"Catano",183
+2442,"Cayey",183
+2443,"Ceiba",183
+2444,"Ciales",183
+2445,"Cidra",183
+2446,"Coamo",183
+2447,"Comerio",183
+2448,"Corozal",183
+2449,"Culebra",183
+2450,"Dorado",183
+2451,"Fajardo",183
+2452,"Florida",183
+2453,"Guanica",183
+2454,"Guayama",183
+2455,"Guayanilla",183
+2456,"Guaynabo",183
+2457,"Gurabo",183
+2458,"Hatillo",183
+2459,"Hormigueros",183
+2460,"Humacao",183
+2461,"Isabela",183
+2462,"Municipio de Jayuya",183
+2463,"Juana Diaz",183
+2464,"Municipio de Juncos",183
+2465,"Lajas",183
+2466,"Lares",183
+2467,"Las Marias",183
+2468,"Las Piedras",183
+2469,"Loiza",183
+2470,"Luquillo",183
+2471,"Manati",183
+2472,"Maricao",183
+2473,"Maunabo",183
+2474,"Mayaguez",183
+2475,"Moca",183
+2476,"Morovis",183
+2477,"Naguabo",183
+2478,"Naranjito",183
+2479,"Orocovis",183
+2480,"Patillas",183
+2481,"Penuelas",183
+2482,"Ponce",183
+2483,"Rincon",183
+2484,"Quebradillas",183
+2485,"Rio Grande",183
+2486,"Sabana Grande",183
+2487,"Salinas",183
+2488,"San German",183
+2489,"San Juan",183
+2490,"San Lorenzo",183
+2491,"San Sebastian",183
+2492,"Santa Isabel Municipio",183
+2493,"Toa Alta",183
+2494,"Toa Baja",183
+2495,"Trujillo Alto",183
+2496,"Utuado",183
+2497,"Vega Alta",183
+2498,"Vega Baja",183
+2499,"Villalba",183
+2500,"Yabucoa",183
+2501,"Yauco",183
+2502,"Vieques",183
+2503,"Gaza Strip",184
+2504,"West Bank",184
+2505,"Setúbal",185
+2506,"Santarém",185
+2507,"Portalegre",185
+2508,"Lisbon",185
+2509,"Leiria",185
+2510,"Faro",185
+2511,"Évora",185
+2512,"Castelo Branco",185
+2513,"Beja",185
+2514,"Madeira",185
+2515,"Viseu",185
+2516,"Vila Real",185
+2517,"Viana do Castelo",185
+2518,"Porto",185
+2519,"Guarda",185
+2520,"Coimbra",185
+2521,"Bragança",185
+2522,"Braga",185
+2523,"Aveiro",185
+2524,"Azores",185
+2525,"Ngatpang",186
+2526,"Sonsorol",186
+2527,"Kayangel",186
+2528,"State of Hatohobei",186
+2529,"Aimeliik",186
+2530,"Airai",186
+2531,"Angaur",186
+2532,"Koror",186
+2533,"Melekeok",186
+2534,"Ngaraard",186
+2535,"Ngchesar",186
+2536,"Ngarchelong",186
+2537,"Ngardmau",186
+2538,"State of Ngeremlengui",186
+2539,"Ngiwal",186
+2540,"Peleliu",186
+2541,"San Pedro",187
+2542,"Presidente Hayes",187
+2543,"Paraguarí",187
+2544,"Ñeembucú",187
+2545,"Misiones",187
+2546,"Itapúa",187
+2547,"Guairá",187
+2548,"Cordillera",187
+2549,"Concepción",187
+2550,"Central",187
+2551,"Canindeyú",187
+2552,"Caazapá",187
+2553,"Caaguazú",187
+2554,"Amambay",187
+2555,"Alto Paraná",187
+2556,"Alto Paraguay",187
+2557,"Asunción",187
+2558,"Boquerón",187
+2559,"Madīnat ash Shamāl",188
+2560,"Al Ghuwayrīyah",188
+2561,"Al Khawr",188
+2562,"Umm Şalāl",188
+2563,"Al Jumaylīyah",188
+2564,"Ar Rayyān",188
+2565,"Ad Dawḩah",188
+2566,"Al Wakrah",188
+2567,"Jarayān al Bāţinah",188
+2568,"Baladīyat Umm Sa‘īd",188
+2569,"Réunion",189
+2570,"Judeţul Vrancea",190
+2571,"Vâlcea",190
+2572,"Vaslui",190
+2573,"Tulcea",190
+2574,"Timiş",190
+2575,"Teleorman",190
+2576,"Suceava",190
+2577,"Sibiu",190
+2578,"Satu Mare",190
+2579,"Sălaj",190
+2580,"Prahova",190
+2581,"Olt",190
+2582,"Neamţ",190
+2583,"Mureş",190
+2584,"Mehedinţi",190
+2585,"Maramureş",190
+2586,"Iaşi",190
+2587,"Ialomiţa",190
+2588,"Hunedoara",190
+2589,"Harghita",190
+2590,"Gorj",190
+2591,"Giurgiu",190
+2592,"Galaţi",190
+2593,"Dolj",190
+2594,"Dâmboviţa",190
+2595,"Covasna",190
+2596,"Constanţa",190
+2597,"Cluj",190
+2598,"Caraş-Severin",190
+2599,"Călăraşi",190
+2600,"Buzău",190
+2601,"Bucureşti",190
+2602,"Braşov",190
+2603,"Brăila",190
+2604,"Botoşani",190
+2605,"Bistriţa-Năsăud",190
+2606,"Bihor",190
+2607,"Bacău",190
+2608,"Argeş",190
+2609,"Arad",190
+2610,"Alba",190
+2611,"Ilfov",190
+2612,"Autonomna Pokrajina Vojvodina",191
+2613,"Central Serbia",191
+2614,"Jaroslavl",192
+2615,"Voronezj",192
+2616,"Vologda",192
+2617,"Volgograd",192
+2618,"Uljanovsk",192
+2619,"Udmurtiya",192
+2620,"Tverskaya",192
+2621,"Tula",192
+2622,"Tatarstan",192
+2623,"Tambov",192
+2624,"Stavropol'skiy",192
+2625,"Smolensk",192
+2626,"Saratov",192
+2627,"Samara",192
+2628,"Rjazan",192
+2629,"Rostov",192
+2630,"Pskov",192
+2631,"Perm",192
+2632,"Penza",192
+2633,"Orjol",192
+2634,"Orenburg",192
+2635,"Novgorod",192
+2636,"North Ossetia",192
+2637,"Nenetskiy Avtonomnyy Okrug",192
+2638,"Murmansk",192
+2639,"Moscow",192
+2640,"Moskovskaya",192
+2641,"Mordoviya",192
+2642,"Mariy-El",192
+2643,"Lipetsk",192
+2644,"Leningrad",192
+2645,"Sankt-Peterburg",192
+2646,"Kursk",192
+2647,"Krasnodarskiy",192
+2648,"Kostroma",192
+2649,"Komi",192
+2650,"Kirov",192
+2651,"Kareliya",192
+2652,"Karachayevo-Cherkesiya",192
+2653,"Kaluga",192
+2654,"Kalmykiya",192
+2655,"Kaliningrad",192
+2656,"Kabardino-Balkariya",192
+2657,"Ivanovo",192
+2658,"Ingushetiya",192
+2659,"Nizjnij Novgorod",192
+2660,"Dagestan",192
+2661,"Chuvashia",192
+2662,"Chechnya",192
+2663,"Brjansk",192
+2664,"Belgorod",192
+2665,"Bashkortostan",192
+2666,"Astrakhan",192
+2667,"Arkhangelskaya",192
+2668,"Adygeya",192
+2669,"Vladimir",192
+2670,"Yamalo-Nenetskiy Avtonomnyy Okrug",192
+2671,"Tjumen",192
+2672,"Tyva",192
+2673,"Tomsk",192
+2674,"Sverdlovsk",192
+2675,"Omsk",192
+2676,"Novosibirsk",192
+2677,"Kurgan",192
+2678,"Krasnoyarskiy",192
+2679,"Khanty-Mansiyskiy Avtonomnyy Okrug",192
+2680,"Khakasiya",192
+2681,"Kemerovo",192
+2682,"Altay",192
+2683,"Tsjeljabinsk",192
+2684,"Altayskiy",192
+2685,"Sakha",192
+2686,"Primorskiy",192
+2687,"Khabarovsk Krai",192
+2688,"Irkutsk",192
+2689,"Zabaïkalski",192
+2690,"Jewish Autonomous Oblast",192
+2691,"Amur",192
+2692,"Buryatiya",192
+2693,"Sakhalin",192
+2694,"Magadan",192
+2695,"Kamtsjatka",192
+2696,"Chukotskiy Avtonomnyy Okrug",192
+2697,"Zabaykal’skiy Kray",192
+2698,"Eastern Province",193
+2699,"Kigali City",193
+2700,"Northern Province",193
+2701,"Western Province",193
+2702,"Southern Province",193
+2703,"Tabūk",194
+2704,"Najrān",194
+2705,"Makkah",194
+2706,"Jīzān",194
+2707,"Ḩāʼil",194
+2708,"Minţaqat ‘Asīr",194
+2709,"Ash Sharqīyah",194
+2710,"Ar Riyāḑ",194
+2711,"Al Qaşīm",194
+2712,"Al Madīnah",194
+2713,"Al Jawf",194
+2714,"Northern Borders Region",194
+2715,"Al Bāḩah",194
+2716,"Western Province",195
+2717,"Malaita",195
+2718,"Isabel",195
+2719,"Guadalcanal",195
+2720,"Central Province",195
+2721,"Temotu",195
+2722,"Makira",195
+2723,"Choiseul",195
+2724,"Rennell and Bellona",195
+2725,"Takamaka",196
+2726,"Saint Louis",196
+2727,"Port Glaud",196
+2728,"Pointe Larue",196
+2729,"Plaisance",196
+2730,"Mont Fleuri",196
+2731,"Mont Buxton",196
+2732,"English River",196
+2733,"Inner Islands",196
+2734,"Grand Anse Mahe",196
+2735,"Grand Anse Praslin",196
+2736,"Glacis",196
+2737,"Cascade",196
+2738,"Bel Ombre",196
+2739,"Bel Air",196
+2740,"Beau Vallon",196
+2741,"Baie Sainte Anne",196
+2742,"Baie Lazare",196
+2743,"Anse Royale",196
+2744,"Anse Etoile",196
+2745,"Anse Boileau",196
+2746,"Anse aux Pins",196
+2747,"Les Mamelles",196
+2748,"Roche Caiman",196
+2749,"Au Cap",196
+2750,"Northern",197
+2751,"Khartoum",197
+2752,"Upper Nile State",197
+2753,"Red Sea",197
+2754,"Lakes State",197
+2755,"Gezira",197
+2756,"Gedaref",197
+2757,"Unity",197
+2758,"White Nile",197
+2759,"Blue Nile State",197
+2760,"Bahr el Gabel",197
+2761,"Western Equatoria",197
+2762,"Western Bahr al Ghazal",197
+2763,"Western Darfur State",197
+2764,"Southern Darfur",197
+2765,"Southern Kordofan State",197
+2766,"Jonglei State",197
+2767,"Kassala State",197
+2768,"River Nile State",197
+2769,"Northern Bahr el Ghazal State",197
+2770,"Northern Darfur",197
+2771,"Northern Kordofan",197
+2772,"Eastern Equatoria",197
+2773,"Sinnar State",197
+2774,"Warab State",197
+2775,"Norrbotten",198
+2776,"Västmanland",198
+2777,"Västernorrland",198
+2778,"Västerbotten",198
+2779,"Värmland",198
+2780,"Uppsala",198
+2781,"Stockholm",198
+2782,"Södermanland",198
+2783,"Östergötland",198
+2784,"Örebro",198
+2785,"Kronoberg",198
+2786,"Dalarna",198
+2787,"Kalmar",198
+2788,"Jönköping",198
+2789,"Jämtland",198
+2790,"Halland",198
+2791,"Gotland",198
+2792,"Gävleborg",198
+2793,"Blekinge",198
+2794,"Skåne",198
+2795,"Västra Götaland",198
+2796,"Central Singapore",199
+2797,"North East",199
+2798,"South East",199
+2799,"South West",199
+2800,"North West",199
+2801,"Ascension",200
+2802,"Tristan da Cunha",200
+2803,"Saint Helena",200
+2804,"Žalec",201
+2805,"Zagorje ob Savi",201
+2806,"Vrhnika",201
+2807,"Tržič",201
+2808,"Trebnje",201
+2809,"Trbovlje",201
+2810,"Tolmin",201
+2811,"Velenje",201
+2812,"Šmarje pri Jelšah",201
+2813,"Slovenska Konjice",201
+2814,"Slovenska Bistrica",201
+2815,"Slovenj Gradec",201
+2816,"Škofja Loka",201
+2817,"Sežana",201
+2818,"Sevnica",201
+2819,"Šentjur pri Celju",201
+2820,"Ribnica",201
+2821,"Radovljica",201
+2822,"Radlje ob Dravi",201
+2823,"Ptuj",201
+2824,"Postojna",201
+2825,"Piran-Pirano",201
+2826,"Ormož",201
+2827,"Novo Mesto",201
+2828,"Nova Gorica",201
+2829,"Murska Sobota",201
+2830,"Mozirje",201
+2831,"Metlika",201
+2832,"Maribor",201
+2833,"Logatec",201
+2834,"Ljutomer",201
+2835,"Litija",201
+2836,"Lenart",201
+2837,"Laško",201
+2838,"Krško",201
+2839,"Kranj",201
+2840,"Koper-Capodistria",201
+2841,"Kočevje",201
+2842,"Kamnik",201
+2843,"Jesenice",201
+2844,"Izola-Isola",201
+2845,"Ilirska Bistrica",201
+2846,"Idrija",201
+2847,"Hrastnik",201
+2848,"Grosuplje",201
+2849,"Gornja Radgona",201
+2850,"Dravograd",201
+2851,"Domžale",201
+2852,"Črnomelj",201
+2853,"Cerknica",201
+2854,"Celje",201
+2855,"Brežice",201
+2856,"Ajdovščina",201
+2857,"Hrpelje-Kozina",201
+2858,"Divača",201
+2859,"Pivka",201
+2860,"Loška Dolina",201
+2861,"Loški Potok",201
+2862,"Osilnica",201
+2863,"Velike Lašče",201
+2864,"Škofljica",201
+2865,"Ig",201
+2866,"Brezovica",201
+2867,"Borovnica",201
+2868,"Vipava",201
+2869,"Komen",201
+2870,"Miren-Kostanjevica",201
+2871,"Brda",201
+2872,"Kanal",201
+2873,"Žiri",201
+2874,"Cerkno",201
+2875,"Železniki",201
+2876,"Gorenja Vas-Poljane",201
+2877,"Dobrova-Horjul-Polhov Gradec",201
+2878,"Kobarid",201
+2879,"Bovec",201
+2880,"Bohinj",201
+2881,"Bled",201
+2882,"Naklo",201
+2883,"Kranjska Gora",201
+2884,"Preddvor",201
+2885,"Cerklje Na Gorenjskem",201
+2886,"Šenčur",201
+2887,"Vodice",201
+2888,"Medvode",201
+2889,"Mengeš",201
+2890,"Dol Pri Ljubljani",201
+2891,"Moravče",201
+2892,"Gornji Grad",201
+2893,"Luče",201
+2894,"Ravne na Koroškem",201
+2895,"Mežica",201
+2896,"Muta",201
+2897,"Vuzenica",201
+2898,"Črna na Koroškem",201
+2899,"Ljubno",201
+2900,"Šoštanj",201
+2901,"Šmartno ob Paki",201
+2902,"Lukovica",201
+2903,"Radeče",201
+2904,"Ivančna Gorica",201
+2905,"Dobrepolje",201
+2906,"Semič",201
+2907,"Šentjernej",201
+2908,"Škocjan",201
+2909,"Štore",201
+2910,"Vojnik",201
+2911,"Vitanje",201
+2912,"Zreče",201
+2913,"Mislinja",201
+2914,"Ruše",201
+2915,"Kungota",201
+2916,"Šentilj",201
+2917,"Pesnica",201
+2918,"Duplek",201
+2919,"Rače-Fram",201
+2920,"Starše",201
+2921,"Kidričevo",201
+2922,"Majšperk",201
+2923,"Videm",201
+2924,"Rogaška Slatina",201
+2925,"Rogatec",201
+2926,"Podčetrtek",201
+2927,"Kozje",201
+2928,"Gorišnica",201
+2929,"Zavrč",201
+2930,"Dornava",201
+2931,"Juršinci",201
+2932,"Sveti Jurij",201
+2933,"Radenci",201
+2934,"Puconci",201
+2935,"Rogašovci",201
+2936,"Kuzma",201
+2937,"Gornji Petrovci",201
+2938,"Moravske Toplice",201
+2939,"Kobilje",201
+2940,"Beltinci",201
+2941,"Turnišče",201
+2942,"Odranci",201
+2943,"Črenšovci",201
+2944,"Nazarje",201
+2945,"Ljubljana",201
+2946,"Žirovnica",201
+2947,"Jezersko",201
+2948,"Solčava",201
+2949,"Komenda",201
+2950,"Horjul",201
+2951,"Šempeter-Vrtojba",201
+2952,"Bloke",201
+2953,"Sodražica",201
+2954,"Trzin",201
+2955,"Prevalje",201
+2956,"Vransko",201
+2957,"Tabor",201
+2958,"Braslovče",201
+2959,"Polzela",201
+2960,"Prebold",201
+2961,"Kostel",201
+2962,"Žužemberk",201
+2963,"Dolenjske Toplice",201
+2964,"Mirna Peč",201
+2965,"Bistrica ob Sotli",201
+2966,"Dobje",201
+2967,"Dobrna",201
+2968,"Oplotnica",201
+2969,"Podvelka",201
+2970,"Ribnica na Pohorju",201
+2971,"Lovrenc na Pohorju",201
+2972,"Selnica ob Dravi",201
+2973,"Hoče-Slivnica",201
+2974,"Miklavž na Dravskem Polju",201
+2975,"Hajdina",201
+2976,"Žetale",201
+2977,"Podlehnik",201
+2978,"Markovci",201
+2979,"Destrnik",201
+2980,"Trnovska Vas",201
+2981,"Sveti Andraž v Slovenskih Goricah",201
+2982,"Cerkvenjak",201
+2983,"Benedikt",201
+2984,"Sveta Ana",201
+2985,"Križevci",201
+2986,"Veržej",201
+2987,"Velika Polana",201
+2988,"Lendava-Lendva",201
+2989,"Dobrovnik-Dobronak",201
+2990,"Tišina",201
+2991,"Cankova",201
+2992,"Grad",201
+2993,"Hodoš-Hodos",201
+2994,"Razkrižje",201
+2995,"Šmartno pri Litiji",201
+2996,"Šalovci",201
+2997,"Jan Mayen",202
+2998,"Svalbard",202
+2999,"Košický",203
+3000,"Prešovský",203
+3001,"Žilinský",203
+3002,"Banskobystrický",203
+3003,"Bratislavský",203
+3004,"Nitriansky",203
+3005,"Trenčiansky",203
+3006,"Trnavský",203
+3007,"Western Area",204
+3008,"Southern Province",204
+3009,"Northern Province",204
+3010,"Eastern Province",204
+3011,"Serravalle",205
+3012,"Chiesanuova",205
+3013,"San Marino",205
+3014,"Acquaviva",205
+3015,"Borgo Maggiore",205
+3016,"Domagnano",205
+3017,"Faetano",205
+3018,"Fiorentino",205
+3019,"Montegiardino",205
+3020,"Ziguinchor",206
+3021,"Thiès",206
+3022,"Tambacounda",206
+3023,"Saint-Louis",206
+3024,"Matam",206
+3025,"Louga",206
+3026,"Kolda",206
+3027,"Kaolack",206
+3028,"Fatick",206
+3029,"Diourbel",206
+3030,"Dakar",206
+3031,"Kaffrine",206
+3032,"Kédougou",206
+3033,"Sédhiou",206
+3034,"Woqooyi Galbeed",207
+3035,"Togdheer",207
+3036,"Shabeellaha Hoose",207
+3037,"Middle Shabele",207
+3038,"Sanaag",207
+3039,"Nugaal",207
+3040,"Mudug",207
+3041,"Lower Juba",207
+3042,"Middle Juba",207
+3043,"Hiiraan",207
+3044,"Gedo",207
+3045,"Galguduud",207
+3046,"Bay",207
+3047,"Bari",207
+3048,"Banaadir",207
+3049,"Bakool",207
+3050,"Awdal",207
+3051,"Sool",207
+3052,"Wanica",208
+3053,"Sipaliwini",208
+3054,"Saramacca",208
+3055,"Paramaribo",208
+3056,"Para",208
+3057,"Nickerie",208
+3058,"Marowijne",208
+3059,"Coronie",208
+3060,"Commewijne",208
+3061,"Brokopondo",208
+3062,"São Tomé",209
+3063,"Príncipe",209
+3064,"Usulután",210
+3065,"Sonsonate",210
+3066,"San Vicente",210
+3067,"Santa Ana",210
+3068,"San Salvador",210
+3069,"San Miguel",210
+3070,"Morazán",210
+3071,"La Unión",210
+3072,"La Paz",210
+3073,"La Libertad",210
+3074,"Cuscatlán",210
+3075,"Chalatenango",210
+3076,"Cabañas",210
+3077,"Ahuachapán",210
+3078,"Tartus",212
+3079,"Damascus City",212
+3080,"Idlib",212
+3081,"Homs",212
+3082,"Hama",212
+3083,"Aleppo",212
+3084,"Rif-dimashq",212
+3085,"Deir ez-Zor",212
+3086,"Daraa",212
+3087,"As-Suwayda",212
+3088,"Ar-Raqqah",212
+3089,"Quneitra",212
+3090,"Latakia",212
+3091,"Al-Hasakah",212
+3092,"Shiselweni",213
+3093,"Manzini",213
+3094,"Lubombo",213
+3095,"Hhohho",213
+3096,"Salamat",215
+3097,"Ouaddaï",215
+3098,"Biltine",215
+3099,"Tandjilé",215
+3100,"Moyen-Chari",215
+3101,"Mayo-Kébbi",215
+3102,"Logone Oriental",215
+3103,"Logone Occidental",215
+3104,"Lac",215
+3105,"Kanem",215
+3106,"Guéra",215
+3107,"Chari-Baguirmi",215
+3108,"Batha",215
+3109,"Région du Borkou",215
+3110,"Région du Hadjer-Lamis",215
+3111,"Région du Mandoul",215
+3112,"Région du Mayo-Kébbi Ouest",215
+3113,"Région de la Ville de N'Djaména",215
+3114,"Région du Barh el Gazel",215
+3115,"Ennedi",215
+3116,"Région du Sila",215
+3117,"Région du Tibesti",215
+3118,"Crozet",216
+3119,"Kerguelen",216
+3120,"Saint-Paul-et-Amsterdam",216
+3121,"Îles Éparses",216
+3122,"Terre-Adélie",216
+3123,"Savanes",217
+3124,"Plateaux",217
+3125,"Maritime",217
+3126,"Centrale",217
+3127,"Kara",217
+3128,"Uthai Thani",218
+3129,"Trang",218
+3130,"Tak",218
+3131,"Surat Thani",218
+3132,"Sukhothai",218
+3133,"Ratchaburi",218
+3134,"Ranong",218
+3135,"Prachuap Khiri Khan",218
+3136,"Changwat Phuket",218
+3137,"Phetchaburi",218
+3138,"Phangnga",218
+3139,"Mae Hong Son",218
+3140,"Lamphun",218
+3141,"Lampang",218
+3142,"Krabi",218
+3143,"Kanchanaburi",218
+3144,"Kamphaeng Phet",218
+3145,"Chumphon",218
+3146,"Chiang Rai",218
+3147,"Chiang Mai",218
+3148,"Yasothon",218
+3149,"Yala",218
+3150,"Uttaradit",218
+3151,"Trat",218
+3152,"Surin",218
+3153,"Suphan Buri",218
+3154,"Songkhla",218
+3155,"Sisaket",218
+3156,"Sing Buri",218
+3157,"Satun",218
+3158,"Sara Buri",218
+3159,"Samut Songkhram",218
+3160,"Samut Sakhon",218
+3161,"Samut Prakan",218
+3162,"Sakon Nakhon",218
+3163,"Roi Et",218
+3164,"Rayong",218
+3165,"Phra Nakhon Si Ayutthaya",218
+3166,"Phrae",218
+3167,"Phitsanulok",218
+3168,"Phichit",218
+3169,"Phetchabun",218
+3170,"Phayao",218
+3171,"Phatthalung",218
+3172,"Pattani",218
+3173,"Pathum Thani",218
+3174,"Nonthaburi",218
+3175,"Nong Khai",218
+3176,"Narathiwat",218
+3177,"Nan",218
+3178,"Nakhon Si Thammarat",218
+3179,"Nakhon Sawan",218
+3180,"Nakhon Ratchasima",218
+3181,"Nakhon Phanom",218
+3182,"Nakhon Pathom",218
+3183,"Nakhon Nayok",218
+3184,"Mukdahan",218
+3185,"Maha Sarakham",218
+3186,"Lop Buri",218
+3187,"Loei",218
+3188,"Bangkok",218
+3189,"Khon Kaen",218
+3190,"Kalasin",218
+3191,"Chon Buri",218
+3192,"Chanthaburi",218
+3193,"Chaiyaphum",218
+3194,"Chai Nat",218
+3195,"Chachoengsao",218
+3196,"Buriram",218
+3197,"Ang Thong",218
+3198,"Udon Thani",218
+3199,"Prachin Buri",218
+3200,"Ubon Ratchathani",218
+3201,"Amnat Charoen",218
+3202,"Nong Bua Lamphu",218
+3203,"Sa Kaeo",218
+3204,"Sughd",219
+3205,"Gorno-Badakhshan",219
+3206,"Khatlon",219
+3207,"Region of Republican Subordination",219
+3208,"Dushanbe",219
+3209,"Nukunonu",220
+3210,"Fakaofo",220
+3211,"Atafu",220
+3212,"Viqueque",221
+3213,"Manufahi",221
+3214,"Distrito Manatuto",221
+3215,"Distrito Liquiçá",221
+3216,"Distrito Lautém",221
+3217,"Distrito Cova Lima",221
+3218,"Ermera",221
+3219,"Distrito Díli",221
+3220,"Bobonaro",221
+3221,"Distrito Bacau",221
+3222,"Oecussi",221
+3223,"Distrito Ainaro",221
+3224,"Distrito Aileu",221
+3225,"Balkan",222
+3226,"Ahal",222
+3227,"Daşoguz",222
+3228,"Mary",222
+3229,"Lebap",222
+3230,"Zaghwān",223
+3231,"Tūnis",223
+3232,"Tawzar",223
+3233,"Taţāwīn",223
+3234,"Sūsah",223
+3235,"Silyānah",223
+3236,"Sīdī Bū Zayd",223
+3237,"Şafāqis",223
+3238,"Qibilī",223
+3239,"Qafşah",223
+3240,"Qābis",223
+3241,"Nābul",223
+3242,"Madanīn",223
+3243,"Jundūbah",223
+3244,"Bin ‘Arūs",223
+3245,"Banzart",223
+3246,"Bājah",223
+3247,"Ariana",223
+3248,"Al Qayrawān",223
+3249,"Al Qaşrayn",223
+3250,"Al Munastīr",223
+3251,"Al Mahdīyah",223
+3252,"Kef",223
+3253,"Gouvernorat de la Manouba",223
+3254,"Vava`u",224
+3255,"Tongatapu",224
+3256,"Ha`apai",224
+3257,"Eua",224
+3258,"Niuas",224
+3259,"Yozgat",225
+3260,"Van",225
+3261,"Uşak",225
+3262,"Şanlıurfa",225
+3263,"Tunceli",225
+3264,"Sivas",225
+3265,"Siirt",225
+3266,"Niğde",225
+3267,"Nevşehir",225
+3268,"Muş",225
+3269,"Muğla",225
+3270,"Mardin",225
+3271,"Manisa",225
+3272,"Malatya",225
+3273,"Kütahya",225
+3274,"Konya",225
+3275,"Kırşehir",225
+3276,"Kayseri",225
+3277,"Kahramanmaraş",225
+3278,"İzmir",225
+3279,"Isparta",225
+3280,"Mersin",225
+3281,"Hatay",225
+3282,"Hakkâri",225
+3283,"Gaziantep",225
+3284,"Eskişehir",225
+3285,"Erzurum",225
+3286,"Erzincan",225
+3287,"Elazığ",225
+3288,"Diyarbakır",225
+3289,"Denizli",225
+3290,"Burdur",225
+3291,"Bitlis",225
+3292,"Bingöl",225
+3293,"Bilecik",225
+3294,"Balıkesir",225
+3295,"Aydın",225
+3296,"Antalya",225
+3297,"Ankara",225
+3298,"Ağrı",225
+3299,"Afyonkarahisar",225
+3300,"Adıyaman",225
+3301,"Adana",225
+3302,"Osmaniye",225
+3303,"Iğdır",225
+3304,"Aksaray",225
+3305,"Batman",225
+3306,"Karaman",225
+3307,"Kırıkkale",225
+3308,"Şırnak",225
+3309,"Kilis",225
+3310,"Zonguldak",225
+3311,"Trabzon",225
+3312,"Tokat",225
+3313,"Tekirdağ",225
+3314,"Sinop",225
+3315,"Samsun",225
+3316,"Sakarya",225
+3317,"Rize",225
+3318,"Ordu",225
+3319,"Kocaeli",225
+3320,"Kırklareli",225
+3321,"Kastamonu",225
+3322,"Kars",225
+3323,"Istanbul",225
+3324,"Gümüşhane",225
+3325,"Giresun",225
+3326,"Edirne",225
+3327,"Çorum",225
+3328,"Çankırı",225
+3329,"Çanakkale",225
+3330,"Bursa",225
+3331,"Bolu",225
+3332,"Artvin",225
+3333,"Amasya",225
+3334,"Bartın",225
+3335,"Karabük",225
+3336,"Yalova",225
+3337,"Ardahan",225
+3338,"Bayburt",225
+3339,"Düzce",225
+3340,"Tobago",226
+3341,"San Fernando",226
+3342,"Port-of-Spain",226
+3343,"Mayaro",226
+3344,"Arima",226
+3345,"Chaguanas",226
+3346,"Couva-Tabaquite-Talparo",226
+3347,"Diego Martin",226
+3348,"Eastern Tobago",226
+3349,"Penal/Debe",226
+3350,"Princes Town",226
+3351,"Point Fortin",226
+3352,"Sangre Grande",226
+3353,"Siparia",226
+3354,"San Juan/Laventille",226
+3355,"Tunapuna/Piarco",226
+3356,"Nui",227
+3357,"Nanumea",227
+3358,"Funafuti",227
+3359,"Niutao",227
+3360,"Nanumanga",227
+3361,"Vaitupu",227
+3362,"Nukufetau",227
+3363,"Nukulaelae",227
+3364,"Fukien",228
+3365,"Kaohsiung",228
+3366,"Taipei",228
+3367,"Taiwan",228
+3368,"Kagera",229
+3369,"Zanzibar Urban/West",229
+3370,"Zanzibar North",229
+3371,"Zanzibar Central/South",229
+3372,"Tanga",229
+3373,"Tabora",229
+3374,"Singida",229
+3375,"Shinyanga",229
+3376,"Rukwa Region",229
+3377,"Pwani",229
+3378,"Pemba South",229
+3379,"Pemba North",229
+3380,"Mwanza",229
+3381,"Morogoro Region",229
+3382,"Mbeya",229
+3383,"Mara",229
+3384,"Lindi",229
+3385,"Kilimanjaro",229
+3386,"Kigoma",229
+3387,"Iringa",229
+3388,"Dodoma",229
+3389,"Dar es Salaam",229
+3390,"Arusha",229
+3391,"Manyara",229
+3392,"Ruvuma",229
+3393,"Mtwara",229
+3394,"Zhytomyrs'ka",230
+3395,"Zaporiz'ka",230
+3396,"Zakarpats'ka",230
+3397,"Volyns'ka",230
+3398,"Vinnyts'ka",230
+3399,"Ternopil's'ka",230
+3400,"Sumy",230
+3401,"Misto Sevastopol",230
+3402,"Rivnens'ka",230
+3403,"Poltava",230
+3404,"Odessa",230
+3405,"Mykolayivs'ka",230
+3406,"L'vivs'ka",230
+3407,"Luhans'ka",230
+3408,"Kiev",230
+3409,"Misto Kyyiv",230
+3410,"Avtonomna Respublika Krym",230
+3411,"Kirovohrads'ka",230
+3412,"Khmel'nyts'ka",230
+3413,"Kherson",230
+3414,"Kharkivs'ka",230
+3415,"Ivano-Frankivs'ka",230
+3416,"Donets'ka",230
+3417,"Dnipropetrovska",230
+3418,"Chernivets'ka",230
+3419,"Chernihivs'ka",230
+3420,"Cherkas'ka",230
+3421,"Masaka",231
+3422,"Mpigi",231
+3423,"Namutumba",231
+3424,"Bukedea",231
+3425,"Apac",231
+3426,"Arua",231
+3427,"Bundibugyo",231
+3428,"Bushenyi",231
+3429,"Gulu",231
+3430,"Hoima",231
+3431,"Iganga",231
+3432,"Jinja",231
+3433,"Kabale",231
+3434,"Kabarole",231
+3435,"Kalangala",231
+3436,"Kampala",231
+3437,"Kamuli",231
+3438,"Kapchorwa",231
+3439,"Kasese",231
+3440,"Kibale",231
+3441,"Kiboga",231
+3442,"Kisoro",231
+3443,"Kitgum",231
+3444,"Kotido",231
+3445,"Kumi",231
+3446,"Lira",231
+3447,"Luwero",231
+3448,"Masindi",231
+3449,"Mbale",231
+3450,"Mbarara",231
+3451,"Moroto",231
+3452,"Moyo",231
+3453,"Mubende",231
+3454,"Mukono",231
+3455,"Nebbi",231
+3456,"Ntungamo",231
+3457,"Pallisa",231
+3458,"Rakai",231
+3459,"Rukungiri",231
+3460,"Soroti",231
+3461,"Tororo",231
+3462,"Adjumani",231
+3463,"Bugiri",231
+3464,"Busia",231
+3465,"Katakwi",231
+3466,"Nakasongola",231
+3467,"Sembabule",231
+3468,"Kaberamaido",231
+3469,"Kamwenge",231
+3470,"Kanungu",231
+3471,"Kayunga",231
+3472,"Kyenjojo",231
+3473,"Mayuge",231
+3474,"Nakapiripirit",231
+3475,"Pader",231
+3476,"Sironko",231
+3477,"Wakiso",231
+3478,"Yumbe",231
+3479,"Abim",231
+3480,"Amolatar",231
+3481,"Amuria",231
+3482,"Amuru",231
+3483,"Budaka",231
+3484,"Bududa",231
+3485,"Bulisa",231
+3486,"Butaleja",231
+3487,"Dokolo",231
+3488,"Ibanda",231
+3489,"Isingiro",231
+3490,"Kaabong",231
+3491,"Kaliro",231
+3492,"Kiruhura",231
+3493,"Koboko",231
+3494,"Lyantonde",231
+3495,"Manafwa",231
+3496,"Maracha",231
+3497,"Mityana",231
+3498,"Nakaseke",231
+3499,"Oyam",231
+3500,"Bukwa",231
+3501,"Wake Island",232
+3502,"Navassa Island",232
+3503,"Baker Island",232
+3504,"Howland Island",232
+3505,"Jarvis Island",232
+3506,"Johnston Atoll",232
+3507,"Kingman Reef",232
+3508,"Midway Islands",232
+3509,"Palmyra Atoll",232
+3510,"Arkansas",233
+3511,"Washington, D.C.",233
+3512,"Delaware",233
+3513,"Florida",233
+3514,"Georgia",233
+3515,"Kansas",233
+3516,"Louisiana",233
+3517,"Maryland",233
+3518,"Missouri",233
+3519,"Mississippi",233
+3520,"North Carolina",233
+3521,"Oklahoma",233
+3522,"South Carolina",233
+3523,"Tennessee",233
+3524,"Texas",233
+3525,"West Virginia",233
+3526,"Alabama",233
+3527,"Connecticut",233
+3528,"Iowa",233
+3529,"Illinois",233
+3530,"Indiana",233
+3531,"Maine",233
+3532,"Michigan",233
+3533,"Minnesota",233
+3534,"Nebraska",233
+3535,"New Hampshire",233
+3536,"New Jersey",233
+3537,"New York",233
+3538,"Ohio",233
+3539,"Rhode Island",233
+3540,"Vermont",233
+3541,"Wisconsin",233
+3542,"California",233
+3543,"Colorado",233
+3544,"New Mexico",233
+3545,"Nevada",233
+3546,"Utah",233
+3547,"Arizona",233
+3548,"Idaho",233
+3549,"Montana",233
+3550,"North Dakota",233
+3551,"Oregon",233
+3552,"South Dakota",233
+3553,"Washington",233
+3554,"Wyoming",233
+3555,"Hawaii",233
+3556,"Alaska",233
+3557,"Kentucky",233
+3558,"Massachusetts",233
+3559,"Pennsylvania",233
+3560,"Virginia",233
+3561,"Treinta y Tres",234
+3562,"Tacuarembó",234
+3563,"Soriano",234
+3564,"San José",234
+3565,"Salto",234
+3566,"Rocha",234
+3567,"Rivera",234
+3568,"Río Negro",234
+3569,"Paysandú",234
+3570,"Montevideo",234
+3571,"Maldonado",234
+3572,"Lavalleja",234
+3573,"Florida",234
+3574,"Flores",234
+3575,"Durazno",234
+3576,"Colonia",234
+3577,"Cerro Largo",234
+3578,"Canelones",234
+3579,"Artigas",234
+3580,"Karakalpakstan",235
+3581,"Surxondaryo",235
+3582,"Samarqand",235
+3583,"Qashqadaryo",235
+3584,"Buxoro",235
+3585,"Toshkent",235
+3586,"Toshkent Shahri",235
+3587,"Sirdaryo",235
+3588,"Navoiy",235
+3589,"Namangan",235
+3590,"Xorazm",235
+3591,"Jizzax",235
+3592,"Farg ona",235
+3593,"Andijon",235
+3594,"Saint Patrick",237
+3595,"Saint George",237
+3596,"Saint David",237
+3597,"Saint Andrew",237
+3598,"Grenadines",237
+3599,"Charlotte",237
+3600,"Zulia",238
+3601,"Yaracuy",238
+3602,"Trujillo",238
+3603,"Táchira",238
+3604,"Sucre",238
+3605,"Portuguesa",238
+3606,"Isla Margarita",238
+3607,"Monagas",238
+3608,"Miranda",238
+3609,"Mérida",238
+3610,"Lara",238
+3611,"Guárico",238
+3612,"Dependencias Federales",238
+3613,"Distrito Capital",238
+3614,"Falcón",238
+3615,"Delta Amacuro",238
+3616,"Cojedes",238
+3617,"Carabobo",238
+3618,"Bolívar",238
+3619,"Barinas",238
+3620,"Aragua",238
+3621,"Apure",238
+3622,"Anzoátegui",238
+3623,"Amazonas",238
+3624,"Vargas",238
+3625,"Saint Croix Island",240
+3626,"Saint John Island",240
+3627,"Saint Thomas Island",240
+3628,"Nghệ An",241
+3629,"Ninh Bình",241
+3630,"Ninh Thuận",241
+3631,"Sóc Trăng",241
+3632,"Trà Vinh",241
+3633,"Tuyên Quang",241
+3634,"Vĩnh Long",241
+3635,"Yên Bái",241
+3636,"Lào Cai",241
+3637,"Tiền Giang",241
+3638,"Thừa Thiên-Huế",241
+3639,"Kon Tum",241
+3640,"Thanh Hóa",241
+3641,"Thái Bình",241
+3642,"Tây Ninh",241
+3643,"Sơn La",241
+3644,"Quảng Trị",241
+3645,"Quảng Ninh",241
+3646,"Quảng Ngãi",241
+3647,"Quảng Bình",241
+3648,"Phú Yên",241
+3649,"Hòa Bình",241
+3650,"Long An",241
+3651,"Lạng Sơn",241
+3652,"Lâm Ðồng",241
+3653,"Lai Châu",241
+3654,"Kiến Giang",241
+3655,"Khánh Hòa",241
+3656,"Hồ Chí Minh",241
+3657,"Hà Tĩnh",241
+3658,"Hà Tây",241
+3659,"Hà Giang",241
+3660,"Gia Lai",241
+3661,"Ha Nội",241
+3662,"Cần Thơ",241
+3663,"Hải Phòng",241
+3664,"Bình Thuận",241
+3665,"Ðồng Tháp",241
+3666,"Ðồng Nai",241
+3667,"Ðắc Lắk",241
+3668,"Bà Rịa-Vũng Tàu",241
+3669,"Cao Bằng",241
+3670,"Bình Ðịnh",241
+3671,"Bến Tre",241
+3672,"An Giang",241
+3673,"Ðắk Nông",241
+3674,"Huyện Ðiện Biên",241
+3675,"Bắc Ninh",241
+3676,"Bắc Giang",241
+3677,"Ðà Nẵng",241
+3678,"Bình Dương",241
+3679,"Bình Phước",241
+3680,"Thái Nguyên",241
+3681,"Quảng Nam",241
+3682,"Phú Thọ",241
+3683,"Nam Ðịnh",241
+3684,"Hà Nam",241
+3685,"Bắc Kạn",241
+3686,"Bạc Liêu",241
+3687,"Cà Mau",241
+3688,"Hải Dương",241
+3689,"Hưng Yên",241
+3690,"Vĩnh Phúc",241
+3691,"Hau Giang",241
+3692,"Tafea",242
+3693,"Sanma",242
+3694,"Torba",242
+3695,"Malampa",242
+3696,"Penama",242
+3697,"Shefa",242
+3698,"Circonscription d'Uvéa",243
+3699,"Circonscription de Sigavé",243
+3700,"Circonscription d'Alo",243
+3701,"Vaisigano",244
+3702,"Va`a-o-Fonoti",244
+3703,"Tuamasaga",244
+3704,"Satupa`itea",244
+3705,"Palauli",244
+3706,"Gagaifomauga",244
+3707,"Gaga`emauga",244
+3708,"Fa`asaleleaga",244
+3709,"Atua",244
+3710,"Aiga-i-le-Tai",244
+3711,"A`ana",244
+3712,"Opština Vučitrn",123
+3713,"Komuna e Vitisë",123
+3714,"Komuna e Ferizajt",123
+3715,"Komuna e Mitrovicës",123
+3716,"Komuna e Thërandës",123
+3717,"Komuna e Skenderajt",123
+3718,"Komuna e Prizrenit",123
+3719,"Komuna e Prishtinës",123
+3720,"Opština Podujevo",123
+3721,"Komuna e Pejës",123
+3722,"Komuna e Rahovecit",123
+3723,"Komuna e Lipjanit",123
+3724,"Komuna e Leposaviqit",123
+3725,"Opština Kamenica",123
+3726,"Opština Klina",123
+3727,"Komuna e Kaçanikut",123
+3728,"Komuna e Istogut",123
+3729,"Komuna e Gjilanit",123
+3730,"Komuna e Drenasit",123
+3731,"Komuna e Dragashit",123
+3732,"Komuna e Deçanit",123
+3733,"Komuna e Gjakovës",123
+3734,"Opština Kosovo Polje",123
+3735,"Opština Štrpce",123
+3736,"Komuna e Shtimes",123
+3737,"Opština Novo Brdo",123
+3738,"Komuna e Obiliqit",123
+3739,"Komuna e Malisheves",123
+3740,"Komuna e Zubin Potokut",123
+3741,"Opština Zvečan",123
+3742,"Muḩāfaz̧at Ta‘izz",245
+3743,"Muḩāfaz̧at Shabwah",245
+3744,"Sanaa",245
+3745,"Muḩāfaz̧at Şa‘dah",245
+3746,"Muḩāfaz̧at Raymah",245
+3747,"Muḩāfaz̧at Ma’rib",245
+3748,"Al Maḩwīt",245
+3749,"Muḩāfaz̧at al Jawf",245
+3750,"Ḩaḑramawt",245
+3751,"Muḩāfaz̧at Dhamār",245
+3752,"Al Mahrah",245
+3753,"Al Ḩudaydah",245
+3754,"Al Bayḑāʼ",245
+3755,"Aden",245
+3756,"Abyan",245
+3757,"Muḩāfaz̧at aḑ Ḑāli‘",245
+3758,"Omran",245
+3759,"Muḩāfaz̧at Ḩajjah",245
+3760,"Muḩāfaz̧at Ibb",245
+3761,"Muḩāfaz̧at Laḩij",245
+3762,"Amanat Al Asimah",245
+3763,"Acoua",246
+3764,"Bandraboua",246
+3765,"Bandrele",246
+3766,"Bouéni",246
+3767,"Chiconi",246
+3768,"Chirongui",246
+3769,"Dembeni",246
+3770,"Dzaoudzi",246
+3771,"Kani-Kéli",246
+3772,"Koungou",246
+3773,"Mamoudzou",246
+3774,"Mtsamboro",246
+3775,"M'Tsangamouji",246
+3776,"Ouangani",246
+3777,"Pamandzi",246
+3778,"Sada",246
+3779,"Tsingoni",246
+3780,"Free State",247
+3781,"KwaZulu-Natal",247
+3782,"Eastern Cape",247
+3783,"Gauteng",247
+3784,"Mpumalanga",247
+3785,"Northern Cape",247
+3786,"Limpopo",247
+3787,"North-West",247
+3788,"Western Cape",247
+3789,"Western",248
+3790,"Southern",248
+3791,"North-Western",248
+3792,"Northern",248
+3793,"Lusaka",248
+3794,"Luapula",248
+3795,"Eastern",248
+3796,"Copperbelt",248
+3797,"Central",248
+3798,"Midlands",249
+3799,"Matabeleland South",249
+3800,"Matabeleland North",249
+3801,"Masvingo",249
+3802,"Mashonaland West Province",249
+3803,"Mashonaland East",249
+3804,"Mashonaland Central",249
+3805,"Manicaland",249
+3806,"Bulawayo",249
+3807,"Harare Province",249
