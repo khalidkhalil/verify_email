@@ -1,29 +1,26 @@
-
-This Project is a weather app dealing with open weather map API 
-
-using it's ablilites to interface the temperature of any city all over the world
+This Project is a Verify for email to ensure if found as smtp domain or not
 
 #Demo
-https://weather-khalid.herokuapp.com/
-
-![alt text](https://image.ibb.co/dqtwHK/Screenshot_from_2018_09_16_13_53_15.png)
+https://verifymail.herokuapp.com
 
 ## installation
+
 ```ruby
 bundle install
 ```
 
 Check cerdenalities in database.yml for me it's mysql
-then 
+then
 
 ```ruby
 rake db:create
 rake db:migrate
-rake db:seed #it will take a will as it seeds all cities supported
 ```
-finally 
+
+finally
 
 ```ruby
-rails s 
+rails s
 ```
+
 AND VOILA it's working
